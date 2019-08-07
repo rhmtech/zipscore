@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"flag"
+	"fmt"
 	"log"
 	"os"
 	"strconv"
@@ -25,7 +26,8 @@ func isNumeric(s string) bool {
 }
 
 func main() {
-	flag.StringVar(&scoreFile, "c", "", "Score file for somefile.csv.")
+	flag.StringVar(&scoreFile, "c", "", "Score file for somefile.csv")
+	flag.StringVar(&zipcode, "z", "", "Zipcode to pull the score")
 	flag.BoolVar(&createDb, "create", false, "Create BadgerDB")
 	flag.Parse()
 
@@ -38,6 +40,7 @@ func main() {
 	}
 	defer db.Close()
 
+	// if set to create BadgerDB
 	if createDb {
 		var fileName string
 		if len(scoreFile) > 0 {
@@ -77,7 +80,38 @@ func main() {
 		if err := sc.Err(); err != nil {
 			log.Fatalf("Scan error: %v", err)
 		}
-
 	}
 
+	// Pull score per zipcode zipcode
+	if len(zipcode) > 0 {
+		err := db.View(func(txn *badger.Txn) error {
+			item, err := txn.Get([]byte(zipcode))
+			if err != nil {
+				log.Printf("Error get record: %v", err)
+			}
+
+			var valCopy []byte
+			err = item.Value(func(val []byte) error {
+
+				// Accessing val here is valid.
+				fmt.Printf("The answer is: %s\n", val)
+
+				// Copying or parsing val is valid.
+				valCopy = append([]byte{}, val...)
+
+				return nil
+			})
+			if err != nil {
+				log.Printf("Error to get value: %v", err)
+			}
+
+			// You must copy it to use it outside item.Value(...).
+			fmt.Printf("The answer is: %s\n", valCopy)
+
+			return nil
+		})
+		if err != nil {
+			log.Printf("Error view record: %v", err)
+		}
+	}
 }
