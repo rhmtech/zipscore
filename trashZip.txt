@@ -1,0 +1,1852 @@
+Zipcode: "O, Score: PR@"
+Zipcode: RICK0, Score: 0
+Zipcode: N NY0, Score: 0
+Zipcode: IL 62, Score: 0
+Zipcode: N@, Score: 0
+Zipcode: IA 13, Score: 0
+Zipcode: BORO0, Score: 0
+Zipcode: SEC 3, Score: 0
+Zipcode: RM2, Score: 0
+Zipcode: WISV9, Score: 0
+Zipcode: NE8, Score: 0
+Zipcode: ICK 3, Score: 0
+Zipcode: 54  0, Score: 0
+Zipcode: HA C6, Score: 0
+Zipcode: BURG8, Score: 0
+Zipcode: L CT8, Score: 0
+Zipcode: IC8, Score: 0
+Zipcode: TY O6, Score: 0
+Zipcode: GAN 3, Score: 0
+Zipcode: P SU6, Score: 0
+Zipcode: LI5, Score: 0
+Zipcode: COUN3, Score: 0
+Zipcode: RLT8, Score: 0
+Zipcode: 415 0, Score: 0
+Zipcode: Y DE0, Score: 0
+Zipcode: 006 0, Score: 0
+Zipcode: COUR0, Score: 0
+Zipcode: 36 0, Score: 0
+Zipcode: L KY0, Score: 0
+Zipcode: MIL5, Score: 0
+Zipcode: N TU9, Score: 0
+Zipcode: DG 10, Score: 0
+Zipcode: RK0, Score: 0
+Zipcode: E 8, Score: 0
+Zipcode: Y CT8, Score: 0
+Zipcode: GREE5, Score: 0
+Zipcode: DAMS0, Score: 0
+Zipcode: G PA0, Score: 0
+Zipcode: C 299, Score: 0
+Zipcode: OF P5, Score: 0
+Zipcode: SHP 7, Score: 0
+Zipcode: DG 60, Score: 0
+Zipcode: RE N1, Score: 0
+Zipcode: EE0, Score: 0
+Zipcode: LDG 0, Score: 0
+Zipcode: ANCO3, Score: 0
+Zipcode: HOU2, Score: 0
+Zipcode: F AZ0, Score: 0
+Zipcode: DITI6, Score: 0
+Zipcode: R 716, Score: 0
+Zipcode: H DE0, Score: 0
+Zipcode: IM  0, Score: 0
+Zipcode: BER5, Score: 0
+Zipcode: L 0, Score: 0
+Zipcode: CH N3, Score: 0
+Zipcode: S4, Score: 0
+Zipcode: A 178, Score: 0
+Zipcode: 930 0, Score: 0
+Zipcode: TIN 3, Score: 0
+Zipcode: 04  0, Score: 0
+Zipcode: RIDA0, Score: 0
+Zipcode: IEW 7, Score: 0
+Zipcode: T 380, Score: 0
+Zipcode: BLK0, Score: 0
+Zipcode: A 026, Score: 0
+Zipcode: EIM 3, Score: 0
+Zipcode: DG 30, Score: 0
+Zipcode: OWN 0, Score: 0
+Zipcode: AL5, Score: 0
+Zipcode: ABIN0, Score: 0
+Zipcode: TO5, Score: 0
+Zipcode: Y PA9, Score: 0
+Zipcode: LIST5, Score: 0
+Zipcode: Y CO0, Score: 0
+Zipcode: US S5, Score: 0
+Zipcode: E IL3, Score: 0
+Zipcode: D CO4, Score: 0
+Zipcode: A CY0, Score: 0
+Zipcode: 19 T6, Score: 0
+Zipcode: IL0, Score: 0
+Zipcode: GOD 0, Score: 0
+Zipcode: RE &0, Score: 0
+Zipcode: KS 67, Score: 0
+Zipcode: MON 3, Score: 0
+Zipcode: LDWI5, Score: 0
+Zipcode: D 217, Score: 0
+Zipcode: 306 0, Score: 0
+Zipcode: O 7, Score: 0
+Zipcode: F ST1, Score: 0
+Zipcode: E NY0, Score: 0
+Zipcode: LU9, Score: 0
+Zipcode: C6, Score: 0
+Zipcode: U 5 4, Score: 0
+Zipcode: WIN 1, Score: 0
+Zipcode: D 4, Score: 0
+Zipcode: E 6, Score: 0
+Zipcode: NG P1, Score: 0
+Zipcode: CO 8, Score: 0
+Zipcode: OF S9, Score: 0
+Zipcode: AL7, Score: 0
+Zipcode: KE M1, Score: 0
+Zipcode: NS8, Score: 0
+Zipcode: A 713, Score: 0
+Zipcode: Y TH5, Score: 0
+Zipcode: VI 0, Score: 0
+Zipcode: COR 7, Score: 0
+Zipcode: ME9, Score: 0
+Zipcode: "I, Score:   0"
+Zipcode: NGHA4, Score: 0
+Zipcode: ERSE3, Score: 0
+Zipcode: UNT 6, Score: 0
+Zipcode: X 776, Score: 0
+Zipcode: T TO0, Score: 0
+Zipcode: GONZ1, Score: 0
+Zipcode: A  P9, Score: 0
+Zipcode: RKS 3, Score: 0
+Zipcode: JAC2, Score: 0
+Zipcode: 820 0, Score: 0
+Zipcode: DR 7, Score: 0
+Zipcode: OM F6, Score: 0
+Zipcode: EST0, Score: 0
+Zipcode: TTS 0, Score: 0
+Zipcode: H HS5, Score: 0
+Zipcode: 91  0, Score: 0
+Zipcode: FAR4, Score: 0
+Zipcode: USIA0, Score: 0
+Zipcode: 924 0, Score: 0
+Zipcode: G   0, Score: 0
+Zipcode: ONG 3, Score: 0
+Zipcode: CH S3, Score: 0
+Zipcode: EACH0, Score: 0
+Zipcode: T NO9, Score: 0
+Zipcode: RG P1, Score: 0
+Zipcode: ET A3, Score: 0
+Zipcode: AST 6, Score: 0
+Zipcode: ONNE0, Score: 0
+Zipcode: NE L1, Score: 0
+Zipcode: CT 06, Score: 0
+Zipcode: IN  0, Score: 0
+Zipcode: CYT 6, Score: 0
+Zipcode: F ED5, Score: 0
+Zipcode: KE  0, Score: 0
+Zipcode: STA3, Score: 0
+Zipcode: ND2, Score: 0
+Zipcode: BE9, Score: 0
+Zipcode: SEC0, Score: 0
+Zipcode: EY A6, Score: 0
+Zipcode: VATO9, Score: 0
+Zipcode: .NJ.0, Score: 0
+Zipcode: SEY 0, Score: 0
+Zipcode: 98  0, Score: 0
+Zipcode: OUNT8, Score: 0
+Zipcode: BLK 1, Score: 0
+Zipcode: AD  0, Score: 0
+Zipcode: LOT 9, Score: 0
+Zipcode: AY C5, Score: 0
+Zipcode: 978 0, Score: 0
+Zipcode: NA B3, Score: 0
+Zipcode: PE A3, Score: 0
+Zipcode: DA  0, Score: 0
+Zipcode: EAR 2, Score: 0
+Zipcode: OK0, Score: 0
+Zipcode: 45  0, Score: 0
+Zipcode: OREN9, Score: 0
+Zipcode: ME 0, Score: 0
+Zipcode: R KY0, Score: 0
+Zipcode: AYOU0, Score: 0
+Zipcode: 597 0, Score: 0
+Zipcode: IR) 0, Score: 0
+Zipcode: WAT5, Score: 0
+Zipcode: N J 0, Score: 0
+Zipcode: HWY 9, Score: 0
+Zipcode: N CR2, Score: 0
+Zipcode: NCE 5, Score: 0
+Zipcode: S OF0, Score: 0
+Zipcode: TEX1, Score: 0
+Zipcode: OF R6, Score: 0
+Zipcode: 06  0, Score: 0
+Zipcode: 372 0, Score: 0
+Zipcode: RY0, Score: 0
+Zipcode: 7 I9, Score: 0
+Zipcode: W LO2, Score: 0
+Zipcode: 43  0, Score: 0
+Zipcode: A 700, Score: 0
+Zipcode: N WV0, Score: 0
+Zipcode: YA P9, Score: 0
+Zipcode: RF9, Score: 0
+Zipcode: INTW6, Score: 0
+Zipcode: PK0, Score: 0
+Zipcode: CO.6, Score: 0
+Zipcode: AZ9, Score: 0
+Zipcode: H ST0, Score: 0
+Zipcode: Y 603, Score: 0
+Zipcode: SHA2, Score: 0
+Zipcode: 161 1, Score: 0
+Zipcode: R 007, Score: 0
+Zipcode: IA, Score: 0
+Zipcode: RENT5, Score: 0
+Zipcode: SE 5, Score: 0
+Zipcode: THE 5, Score: 0
+Zipcode: TY0, Score: 0
+Zipcode: FR6, Score: 0
+Zipcode: KANI3, Score: 0
+Zipcode: C 284, Score: 0
+Zipcode: WICH0, Score: 0
+Zipcode: APT0, Score: 0
+Zipcode: IRE 4, Score: 0
+Zipcode: CTY 6, Score: 0
+Zipcode: ESTE9, Score: 0
+Zipcode: 397 0, Score: 0
+Zipcode: ENT 7, Score: 0
+Zipcode: LN 0, Score: 0
+Zipcode: ER9, Score: 0
+Zipcode: N IS3, Score: 0
+Zipcode: C 295, Score: 0
+Zipcode: B B5, Score: 0
+Zipcode: B6, Score: 0
+Zipcode: N 0, Score: 0
+Zipcode: 6 MI3, Score: 0
+Zipcode: MSON0, Score: 0
+Zipcode: HECT5, Score: 0
+Zipcode: A RD0, Score: 0
+Zipcode: CO V9, Score: 0
+Zipcode: T 595, Score: 0
+Zipcode: HTS 6, Score: 0
+Zipcode: 445 0, Score: 0
+Zipcode: MOT5, Score: 0
+Zipcode: SE3, Score: 0
+Zipcode: RDMA5, Score: 0
+Zipcode: ORD 7, Score: 0
+Zipcode: YLNE0, Score: 0
+Zipcode: ON 2, Score: 0
+Zipcode: N TR4, Score: 0
+Zipcode: C 279, Score: 0
+Zipcode: GUAD9, Score: 0
+Zipcode: KS  0, Score: 8.433118411626241
+Zipcode: LK O5, Score: 8.4365298672943752
+Zipcode: LA3, Score: 8.4638215126394432
+Zipcode: TER 3, Score: 8.4740558796438439
+Zipcode: TY M3, Score: 8.4911131579845112
+Zipcode: JORD1, Score: 8.5491079043427831
+Zipcode: PA 18, Score: 8.55593081567905
+Zipcode: PORT0, Score: 8.590045372360386
+Zipcode: LLE 7, Score: 8.6036911950329209
+Zipcode: RRET3, Score: 8.6207484733735882
+Zipcode: G CI5, Score: 8.6241599290417224
+Zipcode: ULLA2, Score: 8.6378057517142555
+Zipcode: 028 0, Score: 8.6719203083955918
+Zipcode: NO 18, Score: 8.6855661310681267
+Zipcode: OIX 5, Score: 8.68897758673626
+Zipcode: 2RD 0, Score: 8.72650359908573
+Zipcode: THE 9, Score: 8.7606181557670659
+Zipcode: WNSH9, Score: 8.7742639784396
+Zipcode: T 1 0, Score: 8.8152014464572037
+Zipcode: MART9, Score: 8.8527274588066724
+Zipcode: GULF0, Score: 8.86978473714734
+Zipcode: TRA3, Score: 8.9346023948418782
+Zipcode: 4 SE3, Score: 8.9380138505100124
+Zipcode: CO9, Score: 8.944836761846279
+Zipcode: DG 40, Score: 8.9687169515232146
+Zipcode: ROIX0, Score: 8.9789513185276153
+Zipcode: 572 0, Score: 9.0233002422133524
+Zipcode: 8 BY0, Score: 9.0267116978814865
+Zipcode: X US5, Score: 9.0608262545628211
+Zipcode: ARGE5, Score: 9.074472077235356
+Zipcode: 5 SE3, Score: 9.1017637225804258
+Zipcode: CLER4, Score: 9.1085866339166923
+Zipcode: TT P1, Score: 9.1290553679254938
+Zipcode: DU3, Score: 9.1392897349298945
+Zipcode: TE C8, Score: 9.15293555760243
+Zipcode: TION0, Score: 9.1699928359430967
+Zipcode: E RI5, Score: 9.1734042916112291
+Zipcode: IN9, Score: 9.1938730256200323
+Zipcode: LE J6, Score: 9.2075188482925654
+Zipcode: NSHP0, Score: 9.2723365059871039
+Zipcode: 18  0, Score: 9.2757479616552381
+Zipcode: TA R9, Score: 9.2859823286596388
+Zipcode: 129 0, Score: 9.2928052399959071
+Zipcode: WV 25, Score: 9.3098625183365744
+Zipcode: E S 6, Score: 9.39173745437178
+Zipcode: E RT0, Score: 9.3951489100399144
+Zipcode: OIX 4, Score: 9.3985603657080468
+Zipcode: 46  0, Score: 9.4531436563981863
+Zipcode: 844 0, Score: 9.48725821307952
+Zipcode: NGST6, Score: 9.5009040357520558
+Zipcode: O VA0, Score: 9.5145498584245889
+Zipcode: R HA9, Score: 9.5213727697608572
+Zipcode: 380 0, Score: 9.5486644151059252
+Zipcode: L MO2, Score: 9.5691331491147267
+Zipcode: 130 0, Score: 9.575956060450995
+Zipcode: WA 0, Score: 9.5793675161191274
+Zipcode: HAMR6, Score: 9.5930133387916623
+Zipcode: NS S4, Score: 9.62030498413673
+Zipcode: E TE9, Score: 9.630539351141131
+Zipcode: UR1, Score: 9.6373622624774
+Zipcode: IN 4, Score: 9.6441851738136659
+Zipcode: CRK 7, Score: 9.7294715655170059
+Zipcode: AMBU9, Score: 9.78064340053901
+Zipcode: AR A3, Score: 9.7840548562071437
+Zipcode: UN C3, Score: 9.7874663118752778
+Zipcode: ILSO5, Score: 9.790877767543412
+Zipcode: E AT0, Score: 9.8113465015522117
+Zipcode: GE C3, Score: 9.8386381468972814
+Zipcode: 4 RA5, Score: 9.8420496025654138
+Zipcode: LFFO3, Score: 9.845461058233548
+Zipcode: 11 W6, Score: 9.8898099819192851
+Zipcode: A 157, Score: 9.9000443489236858
+Zipcode: K8, Score: 9.9068672602599523
+Zipcode: HOUN0, Score: 9.9102787159280865
+Zipcode: ANDO3, Score: 9.9171016272643531
+Zipcode: ATLA5, Score: 9.9375703612731563
+Zipcode: R EN4, Score: 9.95121618394569
+Zipcode: S CO0, Score: 9.958039095281956
+Zipcode: CRK0, Score: 9.98874219629516
+Zipcode: S 390, Score: 10.033091119980895
+Zipcode: MA5, Score: 10.04673694265343
+Zipcode: SID5, Score: 10.053559853989698
+Zipcode: SLIP0, Score: 10.056971309657831
+Zipcode: DAR5, Score: 10.067205676662232
+Zipcode: CY 3, Score: 10.097908777675434
+Zipcode: 660 0, Score: 10.111554600347969
+Zipcode: ON. 0, Score: 10.118377511684235
+Zipcode: YOU 1, Score: 10.121788967352369
+Zipcode: I   0, Score: 10.176372258042507
+Zipcode: 76  0, Score: 10.17978371371064
+Zipcode: 841 0, Score: 10.186606625046908
+Zipcode: RT 8, Score: 10.21730972606011
+Zipcode: 50  0, Score: 10.234367004400777
+Zipcode: 945 0, Score: 10.237778460068911
+Zipcode: OUND9, Score: 10.241189915737046
+Zipcode: XIE 3, Score: 10.254835738409579
+Zipcode: NC 0, Score: 10.271893016750248
+Zipcode: ST0, Score: 10.288950295090915
+Zipcode: 503 0, Score: 10.292361750759049
+Zipcode: 67  0, Score: 10.326476307440386
+Zipcode: SSIP7, Score: 10.329887763108518
+Zipcode: LAND0, Score: 10.340122130112919
+Zipcode: CO I3, Score: 10.346945041449187
+Zipcode: ERTY0, Score: 10.357179408453588
+Zipcode: P9, Score: 10.364002319789854
+Zipcode: T TW7, Score: 10.398116876471191
+Zipcode: NTER2, Score: 10.401528332139325
+Zipcode: UA0, Score: 10.421997066148126
+Zipcode: 3  0, Score: 10.428819977484393
+Zipcode: RR 10, Score: 10.439054344488794
+Zipcode: AVAC1, Score: 10.47316890117013
+Zipcode: OYE 7, Score: 10.497049090847064
+Zipcode: LS  0, Score: 10.510694913519599
+Zipcode: 040 0, Score: 10.524340736192134
+Zipcode: 1  0, Score: 10.527752191860266
+Zipcode: VGA 3, Score: 10.544809470200935
+Zipcode: ITY 0, Score: 10.558455292873468
+Zipcode: PA 16, Score: 10.565278204209736
+Zipcode: NBIO0, Score: 10.599392760891073
+Zipcode: NBON0, Score: 10.602804216559205
+Zipcode: AS C3, Score: 10.606215672227339
+Zipcode: NORE0, Score: 10.613038583563608
+Zipcode: IND 0, Score: 10.640330228908676
+Zipcode: S CT8, Score: 10.667621874253744
+Zipcode: LOT 0, Score: 10.671033329921878
+Zipcode: WY L1, Score: 10.732439531948282
+Zipcode: 31  0, Score: 10.749496810288949
+Zipcode: VER 5, Score: 10.780199911302153
+Zipcode: 'HAL3, Score: 10.783611366970286
+Zipcode: TWP0, Score: 10.834783201992289
+Zipcode: RDA 3, Score: 10.848429024664824
+Zipcode: BKS0, Score: 10.903012315354962
+Zipcode: IN4, Score: 10.913246682359363
+Zipcode: FL 6, Score: 10.943949783372565
+Zipcode: 382 0, Score: 10.950772694708832
+Zipcode: T ON0, Score: 10.974652884385767
+Zipcode: 886 0, Score: 10.978064340053901
+Zipcode: 0 P25, Score: 10.984887251390168
+Zipcode: N US0, Score: 11.005355985398969
+Zipcode: ROM 8, Score: 11.019001808071504
+Zipcode: STOR5, Score: 11.022413263739637
+Zipcode: DR  0, Score: 11.025824719407771
+Zipcode: R.006, Score: 11.032647630744039
+Zipcode: HER 2, Score: 11.039470542080306
+Zipcode: CTY 0, Score: 11.049704909084706
+Zipcode: AG5, Score: 11.076996554429776
+Zipcode: 3 17, Score: 11.080408010097909
+Zipcode: ONT5, Score: 11.083819465766043
+Zipcode: TO L1, Score: 11.111111111111111
+Zipcode: EFFE9, Score: 11.121345478115511
+Zipcode: 224 0, Score: 11.128168389451778
+Zipcode: O CO4, Score: 11.141814212124315
+Zipcode: OFC 6, Score: 11.152048579128714
+Zipcode: 24  0, Score: 11.155460034796848
+Zipcode: H NJ0, Score: 11.165694401801249
+Zipcode: MD  0, Score: 11.169105857469381
+Zipcode: CIT8, Score: 11.182751680141918
+Zipcode: U   0, Score: 11.18616313581005
+Zipcode: RES 1, Score: 11.192986047146318
+Zipcode: 2 BL2, Score: 11.203220414150717
+Zipcode: R RD0, Score: 11.24415788216832
+Zipcode: MS 39, Score: 11.264626616177123
+Zipcode: ANDE0, Score: 11.27144952751339
+Zipcode: UCK 9, Score: 11.281683894517791
+Zipcode: LINE0, Score: 11.295329717190326
+Zipcode: IX  0, Score: 11.29874117285846
+Zipcode: CAM7, Score: 11.305564084194726
+Zipcode: ORAD6, Score: 11.329444273871662
+Zipcode: TN0, Score: 11.339678640876063
+Zipcode: GIL5, Score: 11.343090096544195
+Zipcode: SW 11, Score: 11.370381741889265
+Zipcode: WS  0, Score: 11.401084842902467
+Zipcode: 045 0, Score: 11.438610855251936
+Zipcode: CON3, Score: 11.445433766588204
+Zipcode: E ID0, Score: 11.448845222256336
+Zipcode: NY  0, Score: 11.469313956265138
+Zipcode: LK 4, Score: 11.472725411933272
+Zipcode: LE V3, Score: 11.486371234605807
+Zipcode: 101 0, Score: 11.534131613959676
+Zipcode: S#168, Score: 11.558011803636612
+Zipcode: T AL0, Score: 11.571657626309147
+Zipcode: TAL 2, Score: 11.588714904649814
+Zipcode: 44  0, Score: 11.61259509432675
+Zipcode: TON 1, Score: 11.619418005663016
+Zipcode: NC, Score: 11.622829461331149
+Zipcode: LER 0, Score: 11.653532562344353
+Zipcode: K CO0, Score: 11.656944018012485
+Zipcode: S PA0, Score: 11.674001296353154
+Zipcode: ND 0, Score: 11.680824207689421
+Zipcode: HI, Score: 11.701292941698222
+Zipcode: ALIL5, Score: 11.711527308702625
+Zipcode: MORE3, Score: 11.714938764370757
+Zipcode: 60  0, Score: 11.731996042711424
+Zipcode: R4E 3, Score: 11.769522055060895
+Zipcode: SCHE5, Score: 11.776344966397161
+Zipcode: 56  0, Score: 11.779756422065295
+Zipcode: SC2, Score: 11.78316787773343
+Zipcode: PIK5, Score: 11.789990789069696
+Zipcode: C1, Score: 11.810459523078498
+Zipcode: 'S S3, Score: 11.81387097874663
+Zipcode: 22 0, Score: 11.820693890082898
+Zipcode: HAVE5, Score: 11.827516801419167
+Zipcode: NE C9, Score: 11.834339712755433
+Zipcode: EPAS0, Score: 11.844574079759832
+Zipcode: MOB9, Score: 11.844574079759832
+Zipcode: FL 33, Score: 11.865042813768635
+Zipcode: ANDR8, Score: 11.878688636441169
+Zipcode: TGOM5, Score: 11.882100092109303
+Zipcode: ANSA2, Score: 11.909391737454373
+Zipcode: LAY 3, Score: 11.92644901579504
+Zipcode: RT T7, Score: 11.933271927131308
+Zipcode: M9, Score: 11.943506294135707
+Zipcode: SC0, Score: 11.957152116808242
+Zipcode: TWSH0, Score: 11.967386483812643
+Zipcode: LVD 0, Score: 12.004912496162113
+Zipcode: KS, Score: 12.008323951830246
+Zipcode: 459 4, Score: 12.015146863166514
+Zipcode: CO.9, Score: 12.02196977450278
+Zipcode: 13W 0, Score: 12.032204141507181
+Zipcode: 0 0, Score: 12.079964520861051
+Zipcode: ON C6, Score: 12.090198887865453
+Zipcode: ND, Score: 12.100433254869852
+Zipcode: S 395, Score: 12.127724900214922
+Zipcode: LDIN7, Score: 12.134547811551188
+Zipcode: 757 0, Score: 12.141370722887455
+Zipcode: RT 80, Score: 12.151605089891856
+Zipcode: SW 0, Score: 12.161839456896258
+Zipcode: ERS 0, Score: 12.18230819090506
+Zipcode: ERSE8, Score: 12.189131102241326
+Zipcode: TY V1, Score: 12.236891481595197
+Zipcode: P PA0, Score: 12.247125848599598
+Zipcode: ARDO0, Score: 12.260771671272131
+Zipcode: 1 CY0, Score: 12.264183126940265
+Zipcode: BRUS2, Score: 12.271006038276532
+Zipcode: N O 4, Score: 12.274417493944666
+Zipcode: Y PA0, Score: 12.2778289496128
+Zipcode: LLE 9, Score: 12.284651860949067
+Zipcode: PT 9, Score: 12.294886227953468
+Zipcode: TE R4, Score: 12.2982976836216
+Zipcode: JA P9, Score: 12.332412240302936
+Zipcode: ENVI3, Score: 12.339235151639203
+Zipcode: PH 3, Score: 12.346058062975471
+Zipcode: AS T7, Score: 12.35288097431174
+Zipcode: TE 20, Score: 12.359703885648006
+Zipcode: VIL 8, Score: 12.383584075324942
+Zipcode: BR9, Score: 12.386995530993076
+Zipcode: S 2, Score: 12.431344454678811
+Zipcode: ND N5, Score: 12.438167366015078
+Zipcode: H 038, Score: 12.444990277351346
+Zipcode: D 2, Score: 12.451813188687613
+Zipcode: HT O6, Score: 12.530276669054686
+Zipcode: NA  0, Score: 12.533688124722818
+Zipcode: 060 0, Score: 12.537099580390954
+Zipcode: PAG5, Score: 12.543922491727219
+Zipcode: IN S3, Score: 12.554156858731622
+Zipcode: R CT8, Score: 12.574625592740421
+Zipcode: COU5, Score: 12.58144850407669
+Zipcode: IL3, Score: 12.598505782417357
+Zipcode: DIS 6, Score: 12.608740149421758
+Zipcode: ER M9, Score: 12.612151605089892
+Zipcode: K LA0, Score: 12.612151605089892
+Zipcode: S MS0, Score: 12.629208883430559
+Zipcode: ITUR5, Score: 12.646266161771228
+Zipcode: RTAN5, Score: 12.653089073107497
+Zipcode: LSE 9, Score: 12.656500528775631
+Zipcode: INGS0, Score: 12.670146351448164
+Zipcode: MA, Score: 12.721318186470167
+Zipcode: URCH9, Score: 12.728141097806434
+Zipcode: MA 0, Score: 12.731552553474568
+Zipcode: NT8, Score: 12.769078565824039
+Zipcode: 6   0, Score: 12.775901477160303
+Zipcode: 40  0, Score: 12.789547299832837
+Zipcode: 097 0, Score: 12.806604578173506
+Zipcode: NT A3, Score: 12.823661856514173
+Zipcode: C 120, Score: 12.827073312182307
+Zipcode: 106 0, Score: 12.830484767850441
+Zipcode: T PI2, Score: 12.83730767918671
+Zipcode: OF 8, Score: 12.908948248217515
+Zipcode: TOW5, Score: 12.919182615221917
+Zipcode: LO9, Score: 12.946474260566983
+Zipcode: SL P2, Score: 12.984000272916454
+Zipcode: OFC0, Score: 12.994234639920855
+Zipcode: D NY0, Score: 13.035172107938459
+Zipcode: 3E M9, Score: 13.041995019274724
+Zipcode: OR  0, Score: 13.052229386279127
+Zipcode: O BR9, Score: 13.055640841947259
+Zipcode: LL C3, Score: 13.069286664619792
+Zipcode: 330 0, Score: 13.086343942960459
+Zipcode: LSVI3, Score: 13.106812676969263
+Zipcode: STA0, Score: 13.110224132637397
+Zipcode: BA1, Score: 13.117047043973665
+Zipcode: G 4, Score: 13.12386995530993
+Zipcode: DER 3, Score: 13.127281410978064
+Zipcode: NE F3, Score: 13.137515777982465
+Zipcode: BAY0, Score: 13.140927233650599
+Zipcode: N CO0, Score: 13.151161600655001
+Zipcode: O DE0, Score: 13.154573056323132
+Zipcode: B CO0, Score: 13.157984511991266
+Zipcode: IL 6, Score: 13.164807423327535
+Zipcode: FL9, Score: 13.20915634701327
+Zipcode: 564 0, Score: 13.233036536690207
+Zipcode: CHI3, Score: 13.253505270699007
+Zipcode: TRAC3, Score: 13.260328182035275
+Zipcode: ERTA0, Score: 13.277385460375942
+Zipcode: O RI3, Score: 13.280796916044077
+Zipcode: 48  0, Score: 13.359260396411148
+Zipcode: 629 0, Score: 13.366083307747415
+Zipcode: G CO0, Score: 13.38996349742435
+Zipcode: CO N5, Score: 13.396786408760619
+Zipcode: CE I2, Score: 13.403609320096885
+Zipcode: AM I3, Score: 13.430900965441955
+Zipcode: WY C6, Score: 13.437723876778222
+Zipcode: ALL 4, Score: 13.44454678811449
+Zipcode: NS5, Score: 13.482072800463957
+Zipcode: 1 W0, Score: 13.485484256132091
+Zipcode: D LE5, Score: 13.502541534472758
+Zipcode: TY W5, Score: 13.509364445809027
+Zipcode: 018 7, Score: 13.512775901477161
+Zipcode: OS T7, Score: 13.523010268481562
+Zipcode: E FD1, Score: 13.536656091154095
+Zipcode: MN0, Score: 13.611708115853036
+Zipcode: E TX0, Score: 13.649234128202503
+Zipcode: CH  0, Score: 13.652645583870637
+Zipcode: AND 0, Score: 13.659468495206905
+Zipcode: GR5, Score: 13.731109064237708
+Zipcode: 207 0, Score: 13.744754886910245
+Zipcode: TES 0, Score: 13.748166342578378
+Zipcode: OKE 3, Score: 13.754989253914646
+Zipcode: AK9, Score: 13.765223620919045
+Zipcode: NB R9, Score: 13.789103810595982
+Zipcode: 968 0, Score: 13.802749633268515
+Zipcode: D ST0, Score: 13.81639545594105
+Zipcode: RIO 7, Score: 13.819806911609184
+Zipcode: PAS1, Score: 13.830041278613583
+Zipcode: HAM 3, Score: 13.840275645617986
+Zipcode: IN 47, Score: 13.84368710128612
+Zipcode: ON B1, Score: 13.847098556954251
+Zipcode: QUIN3, Score: 13.884624569303721
+Zipcode: S LA0, Score: 13.891447480639989
+Zipcode: AR2, Score: 13.894858936308122
+Zipcode: O PA0, Score: 13.928973492989458
+Zipcode: M LO7, Score: 13.939207859993861
+Zipcode: USVI3, Score: 13.966499505338929
+Zipcode: VI, Score: 13.983556783679596
+Zipcode: PA 0, Score: 13.98696823934773
+Zipcode: S 0, Score: 13.990379695015864
+Zipcode: MPTO5, Score: 13.993791150683995
+Zipcode: IT 20, Score: 14.007436973356532
+Zipcode: T LA0, Score: 14.021082796029066
+Zipcode: NC 28, Score: 14.048374441374134
+Zipcode: IL F1, Score: 14.058608808378533
+Zipcode: LES 3, Score: 14.062020264046668
+Zipcode: LA F3, Score: 14.079077542387337
+Zipcode: AR0, Score: 14.085900453723605
+Zipcode: A PR0, Score: 14.089311909391739
+Zipcode: OVEY@, Score: 14.09272336505987
+Zipcode: P NY0, Score: 14.096134820728004
+Zipcode: TAGO9, Score: 14.099546276396138
+Zipcode: RI0, Score: 14.102957732064272
+Zipcode: 53  0, Score: 14.109780643400537
+Zipcode: URG 7, Score: 14.120015010404941
+Zipcode: CO 1, Score: 14.164363934090677
+Zipcode: NC0, Score: 14.171186845426945
+Zipcode: D 306, Score: 14.181421212431344
+Zipcode: UMCO9, Score: 14.21553576911268
+Zipcode: NVIL3, Score: 14.232593047453349
+Zipcode: KSBU9, Score: 14.236004503121483
+Zipcode: ON C9, Score: 14.246238870125882
+Zipcode: G RI5, Score: 14.27353051547095
+Zipcode: LE S8, Score: 14.338348173165491
+Zipcode: NY 0, Score: 14.389520008187493
+Zipcode: ALAP1, Score: 14.399754375191895
+Zipcode: T PR1, Score: 14.416811653532562
+Zipcode: RT O5, Score: 14.437280387541366
+Zipcode: P1, Score: 14.454337665882031
+Zipcode: UIS 4, Score: 14.485040766895235
+Zipcode: ERS 3, Score: 14.49868658956777
+Zipcode: NY9, Score: 14.508920956572169
+Zipcode: CY I3, Score: 14.522566779244702
+Zipcode: FL3, Score: 14.556681335926038
+Zipcode: TILL5, Score: 14.570327158598573
+Zipcode: DE, Score: 14.58397298127111
+Zipcode: PR 0, Score: 14.58738443693924
+Zipcode: LEV5, Score: 14.590795892607375
+Zipcode: LLE 4, Score: 14.611264626616178
+Zipcode: NH0, Score: 14.614676082284312
+Zipcode: WEB5, Score: 14.652202094633779
+Zipcode: R LI5, Score: 14.669259372974446
+Zipcode: C3, Score: 14.67267082864258
+Zipcode: SCHO6, Score: 14.676082284310715
+Zipcode: IL5, Score: 14.686316651315115
+Zipcode: UERO2, Score: 14.699962473987652
+Zipcode: 210 0, Score: 14.710196840992051
+Zipcode: HNAC0, Score: 14.713608296660185
+Zipcode: I 088, Score: 14.723842663664586
+Zipcode: HIS 3, Score: 14.730665575000854
+Zipcode: INOI2, Score: 14.737488486337119
+Zipcode: & RI5, Score: 14.754545764677788
+Zipcode: 96  0, Score: 14.764780131682191
+Zipcode: 759 0, Score: 14.798894688363525
+Zipcode: S AR5, Score: 14.805717599699792
+Zipcode: STON5, Score: 14.809129055367926
+Zipcode: CAE2, Score: 14.819363422372325
+Zipcode: PIKE5, Score: 14.829597789376727
+Zipcode: OHI6, Score: 14.833009245044861
+Zipcode: DUB4, Score: 14.856889434721795
+Zipcode: LIP 0, Score: 14.887592535734997
+Zipcode: ECLU2, Score: 14.891003991403132
+Zipcode: E OF0, Score: 14.904649814075665
+Zipcode: ISA2, Score: 14.921707092416334
+Zipcode: OFFI3, Score: 14.945587282093269
+Zipcode: 119 0, Score: 14.976290383106472
+Zipcode: IL H3, Score: 15.00358202845154
+Zipcode: A BA1, Score: 15.017227851124074
+Zipcode: AJA 7, Score: 15.027462218128477
+Zipcode: ND C3, Score: 15.034285129464742
+Zipcode: LL C6, Score: 15.051342407805409
+Zipcode: DG 70, Score: 15.061576774809811
+Zipcode: AN  0, Score: 15.082045508818611
+Zipcode: ARD 0, Score: 15.109337154163683
+Zipcode: THIT3, Score: 15.122982976836216
+Zipcode: MA0, Score: 15.133217343840617
+Zipcode: VLG0, Score: 15.140040255176885
+Zipcode: PR  0, Score: 15.191212090198889
+Zipcode: LAKE0, Score: 15.208269368539556
+Zipcode: 32  0, Score: 15.218503735543957
+Zipcode: ILLE0, Score: 15.221915191212091
+Zipcode: ISL 4, Score: 15.23214955821649
+Zipcode: 74 H2, Score: 15.249206836557159
+Zipcode: 71  0, Score: 15.286732848906629
+Zipcode: COMM6, Score: 15.293555760242898
+Zipcode: Y 3, Score: 15.296967215911028
+Zipcode: MOR7, Score: 15.300378671579162
+Zipcode: A5, Score: 15.31743594991983
+Zipcode: BUS 4, Score: 15.344727595264898
+Zipcode: BILE0, Score: 15.375430696278103
+Zipcode: NJ  0, Score: 15.392487974618771
+Zipcode: 90  0, Score: 15.416368164295704
+Zipcode: ULF 2, Score: 15.426602531300107
+Zipcode: WELL0, Score: 15.436836898304506
+Zipcode: ER0, Score: 15.443659809640772
+Zipcode: OR9, Score: 15.470951454985842
+Zipcode: RES5, Score: 15.474362910653976
+Zipcode: IA  0, Score: 15.477774366322109
+Zipcode: NEW 6, Score: 15.532357657012247
+Zipcode: 52  0, Score: 15.546003479684781
+Zipcode: MATA7, Score: 15.549414935352916
+Zipcode: TY N5, Score: 15.573295125029851
+Zipcode: EY W5, Score: 15.58352949203425
+Zipcode: SED 9, Score: 15.586940947702384
+Zipcode: T5, Score: 15.597175314706785
+Zipcode: 29  0, Score: 15.607409681711188
+Zipcode: NG5, Score: 15.624466960051855
+Zipcode: ANGE0, Score: 15.668815883737592
+Zipcode: OW5, Score: 15.682461706410125
+Zipcode: STOW5, Score: 15.69610752908266
+Zipcode: EY C3, Score: 15.713164807423327
+Zipcode: LES 4, Score: 15.72681063009586
+Zipcode: DIST0, Score: 15.730222085763994
+Zipcode: YELE2, Score: 15.733633541432129
+Zipcode: EXT 0, Score: 15.760925186777197
+Zipcode: G IN3, Score: 15.764336642445331
+Zipcode: ABO4, Score: 15.781393920786
+Zipcode: C R5, Score: 15.788216832122268
+Zipcode: H 3, Score: 15.791628287790399
+Zipcode: O7952, Score: 15.890560502166274
+Zipcode: CA0, Score: 15.945143792856411
+Zipcode: NN T6, Score: 15.95537815986081
+Zipcode: VER 0, Score: 15.982669805205882
+Zipcode: FT 4, Score: 16.00996145055095
+Zipcode: CRY2, Score: 16.013372906219082
+Zipcode: IN M4, Score: 16.020195817555351
+Zipcode: Y GR6, Score: 16.023607273223483
+Zipcode: OH R9, Score: 16.027018728891619
+Zipcode: 465 0, Score: 16.040664551564152
+Zipcode: MS  0, Score: 16.057721829904821
+Zipcode: C 0, Score: 16.061133285572954
+Zipcode: CO 2, Score: 16.067956196909222
+Zipcode: IA9, Score: 16.085013475249891
+Zipcode: AV1, Score: 16.091836386586156
+Zipcode: ME  0, Score: 16.108893664926825
+Zipcode: HUAC0, Score: 16.119128031931226
+Zipcode: LOT0, Score: 16.160065499948828
+Zipcode: SVIL3, Score: 16.173711322621362
+Zipcode: ULON0, Score: 16.1975915122983
+Zipcode: OT 16, Score: 16.204414423634564
+Zipcode: KY9, Score: 16.214648790638968
+Zipcode: 86  0, Score: 16.2282946133115
+Zipcode: TA3, Score: 16.258997714324703
+Zipcode: CORD9, Score: 16.279466448333505
+Zipcode: ST  0, Score: 16.316992460682975
+Zipcode: 020 0, Score: 16.392044485381913
+Zipcode: TY T7, Score: 16.412513219390714
+Zipcode: 38  0, Score: 16.422747586395115
+Zipcode: ORK 0, Score: 16.429570497731383
+Zipcode: NT D5, Score: 16.470507965748986
+Zipcode: NNA 0, Score: 16.487565244089652
+Zipcode: O NJ0, Score: 16.514856889434721
+Zipcode: LATE9, Score: 16.518268345102854
+Zipcode: CO 7, Score: 16.52167980077099
+Zipcode: EON 9, Score: 16.53191416777539
+Zipcode: RA5, Score: 16.535325623443523
+Zipcode: PLA7, Score: 16.548971446116056
+Zipcode: CO 9, Score: 16.583086002797394
+Zipcode: MANS4, Score: 16.589908914133662
+Zipcode: 00  0, Score: 16.634257837819398
+Zipcode: D DE3, Score: 16.63766929348753
+Zipcode: ERVA3, Score: 16.6854296728414
+Zipcode: AHIN7, Score: 16.695664039845802
+Zipcode: NEAR0, Score: 16.709309862518339
+Zipcode: Y 412, Score: 16.712721318186471
+Zipcode: DIS3, Score: 16.736601507863405
+Zipcode: UGAR0, Score: 16.750247330535938
+Zipcode: BURG0, Score: 16.774127520212875
+Zipcode: HI9, Score: 16.787773342885409
+Zipcode: SYCA4, Score: 16.791184798553545
+Zipcode: AR  0, Score: 16.804830621226078
+Zipcode: ESER3, Score: 16.859413911916217
+Zipcode: OF N5, Score: 16.893528468597552
+Zipcode: TN3, Score: 16.896939924265684
+Zipcode: 20 T6, Score: 16.927643025278886
+Zipcode: NT T7, Score: 16.97881486030089
+Zipcode: WF6, Score: 17.00610650564596
+Zipcode: P   0, Score: 17.026575239654761
+Zipcode: CHA9, Score: 17.053866884999831
+Zipcode: PT9, Score: 17.070924163340496
+Zipcode: 20  0, Score: 17.074335619008632
+Zipcode: 3MO1, Score: 17.084569986013033
+Zipcode: RIG8, Score: 17.1016272643537
+Zipcode: SHR2, Score: 17.122095998362504
+Zipcode: SDAL5, Score: 17.135741821035037
+Zipcode: ELL 3, Score: 17.18691365605704
+Zipcode: PA9, Score: 17.190325111725173
+Zipcode: S NY0, Score: 17.227851124074643
+Zipcode: SH L1, Score: 17.234674035410912
+Zipcode: N NJ0, Score: 17.251731313751577
+Zipcode: K   0, Score: 17.265377136424114
+Zipcode: V1, Score: 17.268788592092246
+Zipcode: SEY 3, Score: 17.272200047760382
+Zipcode: T 7, Score: 17.279022959096647
+Zipcode: 815 0, Score: 17.296080237437312
+Zipcode: MT5, Score: 17.306314604441717
+Zipcode: SH  0, Score: 17.323371882782386
+Zipcode: 351 0, Score: 17.333606249786783
+Zipcode: IL 0, Score: 17.340429161123051
+Zipcode: CLUB0, Score: 17.398423907481323
+Zipcode: IX 00, Score: 17.405246818817592
+Zipcode: ORL5, Score: 17.412069730153856
+Zipcode: 29 6, Score: 17.449595742503327
+Zipcode: KY, Score: 17.459830109507728
+Zipcode: ANAN0, Score: 17.476887387848393
+Zipcode: P'S 2, Score: 17.497356121857198
+Zipcode: 8   0, Score: 17.511001944529731
+Zipcode: 71 F9, Score: 17.531470678538533
+Zipcode: NC  0, Score: 17.565585235219867
+Zipcode: ALVE2, Score: 17.575819602224268
+Zipcode: CAT1, Score: 17.609934158905606
+Zipcode: NSON0, Score: 17.623579981578139
+Zipcode: 21  0, Score: 17.626991437246271
+Zipcode: 427 0, Score: 17.630402892914407
+Zipcode: UGH 9, Score: 17.637225804250672
+Zipcode: ORGA5, Score: 17.640637259918808
+Zipcode: RS C3, Score: 17.654283082591341
+Zipcode: TWNS8, Score: 17.66110599392761
+Zipcode: ES N3, Score: 17.691809094940812
+Zipcode: CAMP0, Score: 17.69863200627708
+Zipcode: D CT8, Score: 17.722512195954014
+Zipcode: E 3, Score: 17.725923651622146
+Zipcode: IN R2, Score: 17.729335107290282
+Zipcode: UT, Score: 17.746392385630948
+Zipcode: 9 0, Score: 17.760038208303484
+Zipcode: LYWO6, Score: 17.766861119639753
+Zipcode: 51  0, Score: 17.770272575307882
+Zipcode: IL  0, Score: 17.780506942312286
+Zipcode: IDGE0, Score: 17.923788080373896
+Zipcode: JA  0, Score: 17.934022447378297
+Zipcode: GSTO5, Score: 17.951079725718962
+Zipcode: ASSU4, Score: 17.968137004059631
+Zipcode: HELO9, Score: 18.009074472077234
+Zipcode: CTY 9, Score: 18.022720294749771
+Zipcode: 03  0, Score: 18.11824105345751
+Zipcode: RT  0, Score: 18.138709787466311
+Zipcode: NC2, Score: 18.176235799815782
+Zipcode: AR7, Score: 18.179647255483918
+Zipcode: N OK0, Score: 18.183058711152047
+Zipcode: ERLA5, Score: 18.193293078156451
+Zipcode: OLIV1, Score: 18.200115989492716
+Zipcode: TX 77, Score: 18.217173267833385
+Zipcode: RELL0, Score: 18.227407634837785
+Zipcode: KS C6, Score: 18.237642001842186
+Zipcode: EHIN4, Score: 18.261522191519123
+Zipcode: RSES0, Score: 18.264933647187252
+Zipcode: AUGU2, Score: 18.278579469859789
+Zipcode: OT I5, Score: 18.292225292532326
+Zipcode: OM H6, Score: 18.319516937877392
+Zipcode: A F5, Score: 18.322928393545528
+Zipcode: 979 0, Score: 18.329751304881793
+Zipcode: LUMB4, Score: 18.339985671886193
+Zipcode: 5 0, Score: 18.346808583222458
+Zipcode: DI2, Score: 18.357042950226862
+Zipcode: SS R4, Score: 18.384334595571929
+Zipcode: BIN 2, Score: 18.408214785248866
+Zipcode: 55  0, Score: 18.418449152253267
+Zipcode: ORGE0, Score: 18.425272063589535
+Zipcode: DE  0, Score: 18.4320949749258
+Zipcode: 4   0, Score: 18.483266809947803
+Zipcode: EC 12, Score: 18.493501176952208
+Zipcode: RD  0, Score: 18.513969910961006
+Zipcode: BAN5, Score: 18.527615733633539
+Zipcode: RO L1, Score: 18.531027189301675
+Zipcode: NG  0, Score: 18.534438644969807
+Zipcode: Y OH0, Score: 18.544673011974208
+Zipcode: X   0, Score: 18.558318834646744
+Zipcode: HAV5, Score: 18.578787568655546
+Zipcode: CO 3, Score: 18.592433391328083
+Zipcode: BURA2, Score: 18.609490669668748
+Zipcode: RMIL3, Score: 18.633370859345682
+Zipcode: LO T7, Score: 18.636782315013818
+Zipcode: N CT8, Score: 18.643605226350083
+Zipcode: O NE0, Score: 18.647016682018215
+Zipcode: OH4, Score: 18.653839593354483
+Zipcode: 948 0, Score: 18.698188517040222
+Zipcode: OCK 0, Score: 18.732303073721557
+Zipcode: NJ, Score: 18.739125985057825
+Zipcode: EA  0, Score: 18.77324054173916
+Zipcode: CHAR3, Score: 18.793709275747961
+Zipcode: STR5, Score: 18.797120731416094
+Zipcode: NY, Score: 18.8380581994337
+Zipcode: LA 71, Score: 18.851704022106233
+Zipcode: OTHY0, Score: 18.855115477774369
+Zipcode: RT 1, Score: 18.868761300446902
+Zipcode: OF K1, Score: 18.923344591137038
+Zipcode: SLE 3, Score: 18.950636236482108
+Zipcode: RE2, Score: 18.957459147818373
+Zipcode: PGS 6, Score: 18.960870603486509
+Zipcode: Y MO0, Score: 18.974516426159042
+Zipcode: OJA 2, Score: 18.977927881827174
+Zipcode: "830, Score: 0"
+Zipcode: E BA3, Score: 19.032511172517314
+Zipcode: ISHA0, Score: 19.039334083853579
+Zipcode: SE  0, Score: 19.046156995189847
+Zipcode: TESB6, Score: 19.052979906526115
+Zipcode: B 3 0, Score: 19.104151741548119
+Zipcode: ND5, Score: 19.121209019888784
+Zipcode: ", Score: SUF6"
+Zipcode: KI5, Score: 19.128031931225053
+Zipcode: OF B3, Score: 19.131443386893189
+Zipcode: CKER8, Score: 19.148500665233854
+Zipcode: 65  0, Score: 19.15191212090199
+Zipcode: PHIA0, Score: 19.162146487906391
+Zipcode: 25  0, Score: 19.168969399242659
+Zipcode: ITS 0, Score: 19.182615221915192
+Zipcode: AZ8, Score: 19.196261044587725
+Zipcode: CTY 1, Score: 19.209906867260258
+Zipcode: SIA 9, Score: 19.213318322928394
+Zipcode: N KY0, Score: 19.237198512605328
+Zipcode: ENTR5, Score: 19.247432879609729
+Zipcode: TOA0, Score: 19.25766724661413
+Zipcode: RE I2, Score: 19.264490157950398
+Zipcode: OWN 6, Score: 19.278135980622931
+Zipcode: SKEL3, Score: 19.288370347627332
+Zipcode: CY L1, Score: 19.3156619929724
+Zipcode: BONN5, Score: 19.342953638317471
+Zipcode: CTY 5, Score: 19.360010916658137
+Zipcode: 63  0, Score: 19.370245283662538
+Zipcode: PAS 3, Score: 19.377068194998806
+Zipcode: ARIS8, Score: 19.400948384675743
+Zipcode: EAR 0, Score: 19.421417118684541
+Zipcode: RT8, Score: 19.42824003002081
+Zipcode: 653 0, Score: 19.441885852693343
+Zipcode: ALHO4, Score: 19.462354586702148
+Zipcode: 22  0, Score: 19.486234776379082
+Zipcode: O 2, Score: 19.496469143383482
+Zipcode: MO 0, Score: 19.503292054719747
+Zipcode: AR C3, Score: 19.520349333060416
+Zipcode: OR, Score: 19.581755535086824
+Zipcode: 18 4, Score: 19.605635724763758
+Zipcode: EEK 0, Score: 19.619281547436291
+Zipcode: WV2, Score: 19.63633882577696
+Zipcode: 159-5, Score: 19.66363047112203
+Zipcode: OH 43, Score: 19.677276293794563
+Zipcode: OH  0, Score: 19.684099205130828
+Zipcode: Y IL0, Score: 19.697745027803364
+Zipcode: CAN1, Score: 19.711390850475897
+Zipcode: RD 0, Score: 19.721625217480298
+Zipcode: BCH 6, Score: 19.7420939514891
+Zipcode: WNSH7, Score: 19.745505407157236
+Zipcode: VCH 3, Score: 19.755739774161636
+Zipcode: OUN 3, Score: 19.765974141166033
+Zipcode: K PA0, Score: 19.789854330842971
+Zipcode: .   0, Score: 19.796677242179239
+Zipcode: L LA0, Score: 19.820557431856173
+Zipcode: V 256, Score: 19.837614710196842
+Zipcode: 920 0, Score: 19.84443762153311
+Zipcode: HWY 3, Score: 19.864906355541908
+Zipcode: L 620, Score: 19.868317811210044
+Zipcode: 646 0, Score: 19.919489646232048
+Zipcode: OH, Score: 19.92290110190018
+Zipcode: NEW0, Score: 19.953604202913382
+Zipcode: COLN0, Score: 19.960427114249651
+Zipcode: WY0, Score: 19.967250025585916
+Zipcode: OH 4, Score: 20.011598949271654
+Zipcode: TWP 1, Score: 20.073005151298059
+Zipcode: URG 4, Score: 20.086650973970592
+Zipcode: 34  0, Score: 20.09347388530686
+Zipcode: IA  4, Score: 20.103708252311261
+Zipcode: TE N5, Score: 20.134411353324463
+Zipcode: OD I1, Score: 20.144645720328864
+Zipcode: MM  0, Score: 20.1582915430014
+Zipcode: CLU2, Score: 20.17534882134207
+Zipcode: GH W1, Score: 20.188994644014603
+Zipcode: YALL5, Score: 20.240166479036606
+Zipcode: NC9, Score: 20.246989390372871
+Zipcode: 030 0, Score: 20.253812301709139
+Zipcode: T TX0, Score: 20.26404666871354
+Zipcode: BKLY5, Score: 20.267458124381672
+Zipcode: Y RA0, Score: 20.284515402722342
+Zipcode: LA. 0, Score: 20.311807048067408
+Zipcode: 05  0, Score: 20.322041415071812
+Zipcode: PT C3, Score: 20.325452870739944
+Zipcode: S   0, Score: 20.373213250093816
+Zipcode: NT L1, Score: 20.448265274792753
+Zipcode: R7 M5, Score: 20.461911097465286
+Zipcode: OSTE9, Score: 20.48920274281036
+Zipcode: REST0, Score: 20.523317299491691
+Zipcode: ON L1, Score: 20.530140210827959
+Zipcode: TWP 0, Score: 20.557431856173029
+Zipcode: A PA9, Score: 20.57790059018183
+Zipcode: OUDA0, Score: 20.5847235015181
+Zipcode: SC, Score: 20.6051922355269
+Zipcode: ITY 2, Score: 20.6154266025313
+Zipcode: TON 9, Score: 20.6256609695357
+Zipcode: 7   0, Score: 20.629072425203834
+Zipcode: DO K5, Score: 20.663186981885172
+Zipcode: 965 0, Score: 20.676832804557705
+Zipcode: SING0, Score: 20.680244260225837
+Zipcode: CO8, Score: 20.697301538566506
+Zipcode: CTY 7, Score: 20.704124449902775
+Zipcode: DE 0, Score: 20.707535905570907
+Zipcode: OF H6, Score: 20.738239006584109
+Zipcode: FL 0, Score: 20.741650462252242
+Zipcode: MS 38, Score: 20.765530651929179
+Zipcode: F HS5, Score: 20.768942107597312
+Zipcode: PY C6, Score: 20.785999385937981
+Zipcode: ANDS0, Score: 20.789410841606113
+Zipcode: NJ9, Score: 20.792822297274245
+Zipcode: NGO 3, Score: 20.833759765291852
+Zipcode: S R1, Score: 20.837171220959981
+Zipcode: SION0, Score: 20.857639954968786
+Zipcode: OUND2, Score: 20.871285777641319
+Zipcode: BEND0, Score: 20.89175451165012
+Zipcode: N O6, Score: 20.898577422986389
+Zipcode: 66  0, Score: 20.908811789990789
+Zipcode: Y MS0, Score: 20.980452359021594
+Zipcode: NING0, Score: 20.994098181694127
+Zipcode: E JU4, Score: 21.014566915702932
+Zipcode: ", Score:  MO0"
+Zipcode: PA 1, Score: 21.093030396070002
+Zipcode: MIF6, Score: 21.116910585746936
+Zipcode: IN I2, Score: 21.147613686760142
+Zipcode: 0   0, Score: 21.151025142428274
+Zipcode: ON T7, Score: 21.154436598096407
+Zipcode: UE2, Score: 21.23290007846348
+Zipcode: D LK0, Score: 21.236311534131612
+Zipcode: PA 15, Score: 21.253368812472281
+Zipcode: KS S4, Score: 21.273837546481083
+Zipcode: AL3, Score: 21.284071913485484
+Zipcode: VA2, Score: 21.311363558830553
+Zipcode: MA3, Score: 21.338655204175623
+Zipcode: 15  0, Score: 21.37618121652509
+Zipcode: BDV 0, Score: 21.423941595878961
+Zipcode: RESE9, Score: 21.44099887421963
+Zipcode: LK 9, Score: 21.451233241224031
+Zipcode: 68  0, Score: 21.475113430900965
+Zipcode: RD 34, Score: 21.485347797905366
+Zipcode: WNA 6, Score: 21.5194623545867
+Zipcode: A OL4, Score: 21.5296967215911
+Zipcode: VA9, Score: 21.567222733940572
+Zipcode: 577 0, Score: 21.57404564527684
+Zipcode: I RI5, Score: 21.604748746290042
+Zipcode: Y 415, Score: 21.621806024630711
+Zipcode: E MS0, Score: 21.628628935966976
+Zipcode: 23  0, Score: 21.635451847303244
+Zipcode: PSVI3, Score: 21.645686214307645
+Zipcode: CH T7, Score: 21.66274349264831
+Zipcode: NAPE0, Score: 21.67980077098898
+Zipcode: ES N8, Score: 21.713915327670318
+Zipcode: NY1, Score: 21.734384061679119
+Zipcode: ULA 3, Score: 21.761675707024185
+Zipcode: 187 0, Score: 21.765087162692321
+Zipcode: OWAR4, Score: 21.768498618360454
+Zipcode: GA3, Score: 21.785555896701123
+Zipcode: KELL0, Score: 21.795790263705523
+Zipcode: NY 1, Score: 21.802613175041792
+Zipcode: NICA0, Score: 21.816258997714325
+Zipcode: OSEP8, Score: 21.829904820386858
+Zipcode: 42  0, Score: 21.840139187391262
+Zipcode: 9NJ5, Score: 21.853785010063795
+Zipcode: 1/2 4, Score: 21.898133933749531
+Zipcode: NCH 9, Score: 21.9151912120902
+Zipcode: BAY 0, Score: 21.935659946099
+Zipcode: NC 27, Score: 21.945894313103402
+Zipcode: LINO9, Score: 21.959540135775935
+Zipcode: IL, Score: 22.000477603793538
+Zipcode: MO0, Score: 22.020946337802343
+Zipcode: MO, Score: 22.038003616143008
+Zipcode: VE A9, Score: 22.051649438815542
+Zipcode: OH 0, Score: 22.078941084160611
+Zipcode: NH, Score: 22.082352539828744
+Zipcode: NE  0, Score: 22.08576399549688
+Zipcode: LA 7, Score: 22.136935830518883
+Zipcode: JA0, Score: 22.147170197523284
+Zipcode: CO P1, Score: 22.164227475863953
+Zipcode: WSP 3, Score: 22.171050387200218
+Zipcode: 7 1, Score: 22.177873298536486
+Zipcode: D BC8, Score: 22.181284754204619
+Zipcode: N PA0, Score: 22.184696209872754
+Zipcode: 5   0, Score: 22.194930576877152
+Zipcode: IGHT2, Score: 22.198342032545288
+Zipcode: TX 0, Score: 22.215399310885957
+Zipcode: AVOY5, Score: 22.225633677890354
+Zipcode: 64  0, Score: 22.23927950056289
+Zipcode: 39  0, Score: 22.242690956231023
+Zipcode: R11 0, Score: 22.252925323235427
+Zipcode: ON C3, Score: 22.26657114590796
+Zipcode: VI0, Score: 22.293862791253027
+Zipcode: 01  0, Score: 22.297274246921162
+Zipcode: IN 0, Score: 22.341623170606898
+Zipcode: NJ0, Score: 22.375737727288232
+Zipcode: K SU9, Score: 22.396206461297037
+Zipcode: ENNA7, Score: 22.420086650973971
+Zipcode: D   0, Score: 22.491727220004776
+Zipcode: 33  0, Score: 22.498550131341045
+Zipcode: 052 0, Score: 22.512195954013578
+Zipcode: REES0, Score: 22.525841776686111
+Zipcode: IVAR0, Score: 22.532664688022379
+Zipcode: IND5, Score: 22.577013611708114
+Zipcode: CTY0, Score: 22.58042506737625
+Zipcode: A LA0, Score: 22.590659434380651
+Zipcode: CO 5, Score: 22.597482345716919
+Zipcode: 265 0, Score: 22.604305257053184
+Zipcode: G 0, Score: 22.617951079725717
+Zipcode: BONA5, Score: 22.628185446730122
+Zipcode: T 120, Score: 22.645242725070787
+Zipcode: KY4, Score: 22.662300003411456
+Zipcode: BAYO4, Score: 22.669122914747721
+Zipcode: BA8, Score: 22.689591648756526
+Zipcode: E LA0, Score: 22.693003104424658
+Zipcode: EWOO4, Score: 22.71347183843346
+Zipcode: RY C6, Score: 22.733940572442261
+Zipcode: DES 2, Score: 22.737352028110394
+Zipcode: ESS 3, Score: 22.747586395114798
+Zipcode: BCH 2, Score: 22.757820762119195
+Zipcode: RENA0, Score: 22.788523863132397
+Zipcode: ULAH0, Score: 22.795346774468666
+Zipcode: TX 7, Score: 22.802169685804934
+Zipcode: ANT 9, Score: 22.822638419813735
+Zipcode: N 9, Score: 22.89427898884454
+Zipcode: ELDO5, Score: 22.911336267185209
+Zipcode: RI2, Score: 22.914747722853342
+Zipcode: 512 0, Score: 22.935216456862143
+Zipcode: LAND9, Score: 22.962508102207213
+Zipcode: RD C6, Score: 22.996622658888548
+Zipcode: 450 0, Score: 23.003445570224816
+Zipcode: SBUR7, Score: 23.006857025892948
+Zipcode: TO K1, Score: 23.017091392897349
+Zipcode: ON 4, Score: 23.071674683587489
+Zipcode: IA5, Score: 23.081909050591886
+Zipcode: MS 3, Score: 23.102377784600687
+Zipcode: T   0, Score: 23.2149558216491
+Zipcode: GALV5, Score: 23.245658922662297
+Zipcode: AND 5, Score: 23.252481833998566
+Zipcode: ILE 3, Score: 23.262716201002966
+Zipcode: ME0, Score: 23.293419302016169
+Zipcode: ON  0, Score: 23.324122403029374
+Zipcode: C 1 0, Score: 23.330945314365639
+Zipcode: RK  0, Score: 23.337768225701907
+Zipcode: NGE 5, Score: 23.344591137038172
+Zipcode: 3 S9, Score: 23.385528605055779
+Zipcode: 650 0, Score: 23.528809743117389
+Zipcode: A 154, Score: 23.559512844130591
+Zipcode: CLA9, Score: 23.566335755466859
+Zipcode: L ON0, Score: 23.569747211134992
+Zipcode: AGE 2, Score: 23.573158666803128
+Zipcode: ENA 3, Score: 23.579981578139392
+Zipcode: NGE 1, Score: 23.583393033807525
+Zipcode: AL 0, Score: 23.597038856480061
+Zipcode: E AL0, Score: 23.631153413161396
+Zipcode: WA9, Score: 23.651622147170198
+Zipcode: LE6, Score: 23.668679425510867
+Zipcode: L1, Score: 23.6823252481834
+Zipcode: DAL5, Score: 23.71985126053287
+Zipcode: E BC8, Score: 23.733497083205403
+Zipcode: E CO0, Score: 23.760788728550473
+Zipcode: TY A3, Score: 23.808549107904341
+Zipcode: PENN1, Score: 23.835840753249414
+Zipcode: MBUS0, Score: 23.869955309930749
+Zipcode: MI4, Score: 23.883601132603282
+Zipcode: MN 5, Score: 23.887012588271414
+Zipcode: P3, Score: 23.962064612970355
+Zipcode: 82  0, Score: 23.999590625319826
+Zipcode: PUB3, Score: 24.078054105686896
+Zipcode: MLS0, Score: 24.112168662368234
+Zipcode: 52 0, Score: 24.1189915737045
+Zipcode: PA 17, Score: 24.136048852045167
+Zipcode: AFT5, Score: 24.180397775730906
+Zipcode: 301 0, Score: 24.200866509739704
+Zipcode: MN5, Score: 24.217923788080373
+Zipcode: MA 02, Score: 24.279329990106781
+Zipcode: PR0, Score: 24.28274144577491
+Zipcode: VA, Score: 24.303210179783711
+Zipcode: D CO9, Score: 24.316856002456248
+Zipcode: NV8, Score: 24.350970559137583
+Zipcode: 376 0, Score: 24.357793470473851
+Zipcode: Y 621, Score: 24.385085115818921
+Zipcode: ISH 0, Score: 24.405553849827722
+Zipcode: L NY0, Score: 24.408965305495855
+Zipcode: L   0, Score: 24.436256950840924
+Zipcode: R BU4, Score: 24.463548596185994
+Zipcode: ON 9, Score: 24.484017330194792
+Zipcode: IV  0, Score: 24.504486064203597
+Zipcode: N SP7, Score: 24.51813188687613
+Zipcode: YOR2, Score: 24.569303721898134
+Zipcode: SH R9, Score: 24.589772455906935
+Zipcode: NE6, Score: 24.647767202265207
+Zipcode: OF0, Score: 24.658001569269608
+Zipcode: N WI3, Score: 24.709173404291612
+Zipcode: THE0, Score: 24.739876505304814
+Zipcode: WP  0, Score: 24.760345239313615
+Zipcode: Y NE0, Score: 24.780813973322417
+Zipcode: R2E 0, Score: 24.79445979599495
+Zipcode: FET3, Score: 24.825162897008155
+Zipcode: D LA0, Score: 24.852454542353222
+Zipcode: CHAU3, Score: 24.862688909357622
+Zipcode: 4 MI0, Score: 24.866100365025755
+Zipcode: ESS 0, Score: 24.893392010370825
+Zipcode: 2   0, Score: 24.947975301060961
+Zipcode: FRAN3, Score: 24.958209668065365
+Zipcode: FORD0, Score: 24.961621123733497
+Zipcode: 522 0, Score: 24.978678402074163
+Zipcode: AKE 4, Score: 24.9820898577423
+Zipcode: LLE 3, Score: 24.988912769078567
+Zipcode: T 150, Score: 25.009381503087369
+Zipcode: SILV5, Score: 25.057141882441236
+Zipcode: NA C3, Score: 25.063964793777505
+Zipcode: TON 0, Score: 25.101490806126975
+Zipcode: ID9, Score: 25.139016818476446
+Zipcode: TX9, Score: 25.203834476170982
+Zipcode: LER 3, Score: 25.214068843175387
+Zipcode: ANA 0, Score: 25.220891754511648
+Zipcode: 532 0, Score: 25.224303210179784
+Zipcode: UB  0, Score: 25.347115614232589
+Zipcode: O KY0, Score: 25.415344727595262
+Zipcode: O LA0, Score: 25.459693651281
+Zipcode: ARRI2, Score: 25.480162385289802
+Zipcode: IS 1, Score: 25.517688397639272
+Zipcode: 3   0, Score: 25.548391498652474
+Zipcode: D PA0, Score: 25.579094599665673
+Zipcode: 28  0, Score: 25.62003206768328
+Zipcode: EK R4, Score: 25.640500801692085
+Zipcode: SON 3, Score: 25.647323713028346
+Zipcode: TY P1, Score: 25.65755808003275
+Zipcode: ST A5, Score: 25.678026814041548
+Zipcode: ISH 3, Score: 25.712141370722886
+Zipcode: D ME9, Score: 25.746255927404221
+Zipcode: PA  0, Score: 25.773547572749294
+Zipcode: Z MS0, Score: 25.776959028417423
+Zipcode: TLE 3, Score: 25.783781939753691
+Zipcode: PEE 3, Score: 25.797427762426228
+Zipcode: RI  0, Score: 25.947531811824103
+Zipcode: MO6, Score: 25.988469279841709
+Zipcode: VN  0, Score: 25.99870364684611
+Zipcode: EY C6, Score: 26.005526558182378
+Zipcode: T 1 2, Score: 26.008938013850507
+Zipcode: O NU5, Score: 26.056698393204382
+Zipcode: SHRS0, Score: 26.128338962235187
+Zipcode: LIVA9, Score: 26.155630607580253
+Zipcode: ING 5, Score: 26.179510797257187
+Zipcode: OOK 3, Score: 26.199979531265992
+Zipcode: ISL0, Score: 26.203390986934128
+Zipcode: 070 0, Score: 26.24773991061986
+Zipcode: ST6, Score: 26.271620100296794
+Zipcode: ARLE2, Score: 26.309146112646264
+Zipcode: WHIT5, Score: 26.346672124995735
+Zipcode: RLES0, Score: 26.356906492000139
+Zipcode: EEK 2, Score: 26.36714085900454
+Zipcode: LOR 3, Score: 26.3739637703408
+Zipcode: F BA9, Score: 26.438781428035341
+Zipcode: COLU4, Score: 26.442192883703473
+Zipcode: KY 0, Score: 26.530890731074951
+Zipcode: HILS0, Score: 26.599119844437624
+Zipcode: MS 0, Score: 26.623000034114558
+Zipcode: NITY0, Score: 26.663937502132164
+Zipcode: RY L1, Score: 26.667348957800289
+Zipcode: EO5, Score: 26.684406236140962
+Zipcode: POOL0, Score: 26.6980520588135
+Zipcode: AVEN0, Score: 26.738989526831098
+Zipcode: EVO 7, Score: 26.74240098249923
+Zipcode: S WV0, Score: 26.7492238938355
+Zipcode: KENY6, Score: 26.7799269948487
+Zipcode: 77  0, Score: 26.800395728857502
+Zipcode: ISAB5, Score: 26.820864462866307
+Zipcode: LAIN5, Score: 26.90273939890151
+Zipcode: ER O5, Score: 26.916385221574046
+Zipcode: IN0, Score: 26.926619588578447
+Zipcode: Y   0, Score: 26.930031044246576
+Zipcode: H CA4, Score: 26.943676866919112
+Zipcode: MD9, Score: 26.981202879268583
+Zipcode: INSO5, Score: 26.984614334936719
+Zipcode: STON0, Score: 27.008494524613653
+Zipcode: TOWN2, Score: 27.049431992631256
+Zipcode: NE 6, Score: 27.05966635963566
+Zipcode: & E0, Score: 27.151775662675266
+Zipcode: WV 0, Score: 27.1858902193566
+Zipcode: 260 0, Score: 27.189301675024737
+Zipcode: V 251, Score: 27.202947497697266
+Zipcode: NJ1, Score: 27.216593320369803
+Zipcode: NAPO3, Score: 27.2370620543786
+Zipcode: STIN0, Score: 27.284822433732476
+Zipcode: CTY 3, Score: 27.30870262340941
+Zipcode: 739 0, Score: 27.312114079077542
+Zipcode: RIV5, Score: 27.315525534745678
+Zipcode: DS 49, Score: 27.349640091427013
+Zipcode: SECT0, Score: 27.373520281103946
+Zipcode: RIST9, Score: 27.376931736772082
+Zipcode: 726 0, Score: 27.390577559444619
+Zipcode: LLER0, Score: 27.39740047078088
+Zipcode: SC9, Score: 27.458806672807285
+Zipcode: 20 2, Score: 27.47927540681609
+Zipcode: 5A  0, Score: 27.503155596493023
+Zipcode: IV0, Score: 27.550915975846895
+Zipcode: GAT5, Score: 27.571384709855696
+Zipcode: 80  0, Score: 27.59526489953263
+Zipcode: RD C3, Score: 27.64984819022277
+Zipcode: LD L9, Score: 27.677139835567839
+Zipcode: OMER8, Score: 27.748780404598644
+Zipcode: TLAN3, Score: 27.762426227271174
+Zipcode: LF S8, Score: 27.786306416948115
+Zipcode: OK, Score: 27.817009517961317
+Zipcode: TY  0, Score: 27.840889707638251
+Zipcode: TX  0, Score: 27.844301163306383
+Zipcode: FL, Score: 27.861358441647049
+Zipcode: RANG5, Score: 27.88523863132399
+Zipcode: A   0, Score: 27.926176099341589
+Zipcode: DEVI3, Score: 27.93641046634599
+Zipcode: 3 OF1, Score: 27.98758230136799
+Zipcode: ELEY0, Score: 28.066045781735067
+Zipcode: SL L1, Score: 28.072868693071335
+Zipcode: ISL 3, Score: 28.089925971412
+Zipcode: E CO4, Score: 28.120629072425203
+Zipcode: B3, Score: 28.141097806434008
+Zipcode: LA  0, Score: 28.168389451779074
+Zipcode: EW  0, Score: 28.17180090744721
+Zipcode: 17  0, Score: 28.178623818783478
+Zipcode: IR M6, Score: 28.202504008460412
+Zipcode: MENT0, Score: 28.246852932146147
+Zipcode: DFOR4, Score: 28.301436222836283
+Zipcode: 031 0, Score: 28.321904956845085
+Zipcode: LA 0, Score: 28.356019513526419
+Zipcode: RG M2, Score: 28.362842424862688
+Zipcode: 2-480, Score: 28.417425715552824
+Zipcode: L BC8, Score: 28.512946474260563
+Zipcode: Y 1S3, Score: 28.5572953979463
+Zipcode: 9PA1, Score: 28.570941220618838
+Zipcode: RT 0, Score: 28.574352676286974
+Zipcode: MOR 2, Score: 28.577764131955107
+Zipcode: LA0, Score: 28.642581789649647
+Zipcode: IN C6, Score: 28.676696346330981
+Zipcode: PA, Score: 28.690342169003515
+Zipcode: UDRY0, Score: 28.738102548357386
+Zipcode: RD P1, Score: 28.758571282366184
+Zipcode: LA, Score: 28.792685839047522
+Zipcode: 716 0, Score: 28.81315457305632
+Zipcode: DVN 0, Score: 28.843857674069522
+Zipcode: DIA 3, Score: 28.860914952410194
+Zipcode: 85  0, Score: 28.881383686418992
+Zipcode: ARPY0, Score: 28.946201344113533
+Zipcode: RISH0, Score: 29.021253368812474
+Zipcode: 13-E0, Score: 29.075836659502606
+Zipcode: G 100, Score: 29.08607102650701
+Zipcode: "OJA, Score: 0"
+Zipcode: Y TX0, Score: 29.116774127520213
+Zipcode: 520 0, Score: 29.178180329546617
+Zipcode: 744 0, Score: 29.188414696551018
+Zipcode: NSYL5, Score: 29.208883430559819
+Zipcode: NJ 08, Score: 29.21911779756422
+Zipcode: CO T7, Score: 29.232763620236756
+Zipcode: RIVE9, Score: 29.304404189267558
+Zipcode: NE G1, Score: 29.331695834612631
+Zipcode: LA B3, Score: 29.341930201617028
+Zipcode: PON3, Score: 29.423805137652238
+Zipcode: PAON9, Score: 29.457919694333572
+Zipcode: ZZ0, Score: 29.464742605669841
+Zipcode: N   0, Score: 29.522737352028113
+Zipcode: A 6 7, Score: 29.536383174700642
+Zipcode: SE8, Score: 29.59778937672705
+Zipcode: AL 3, Score: 29.683075768430388
+Zipcode: ST O6, Score: 29.686487224098524
+Zipcode: LA 70, Score: 29.70354450243919
+Zipcode: J   0, Score: 29.737659059120524
+Zipcode: B   0, Score: 29.747893426124929
+Zipcode: HIG8, Score: 29.771773615801862
+Zipcode: PAR9, Score: 29.802476716815065
+Zipcode: UT9, Score: 29.822945450823866
+Zipcode: R LA0, Score: 29.897997475522804
+Zipcode: NSAS0, Score: 29.921877665199741
+Zipcode: VER 3, Score: 29.942346399208542
+Zipcode: GE0, Score: 29.945757854876675
+Zipcode: E   0, Score: 30.003752601234947
+Zipcode: IN L1, Score: 30.027632790911884
+Zipcode: ODVI3, Score: 30.085627537270156
+Zipcode: A 177, Score: 30.170913928973491
+Zipcode: CO 0, Score: 30.19820557431856
+Zipcode: ON B3, Score: 30.245965953672432
+Zipcode: AMP 0, Score: 30.2732575990175
+Zipcode: LA7, Score: 30.314195067035104
+Zipcode: OFT 2, Score: 30.338075256712038
+Zipcode: N CO@, Score: 30.392658547402174
+Zipcode: MS9, Score: 30.402892914406575
+Zipcode: 528 0, Score: 30.409715825742843
+Zipcode: PPR 2, Score: 30.419950192747248
+Zipcode: DING0, Score: 30.440418926756045
+Zipcode: NE, Score: 30.457476205096718
+Zipcode: PA1, Score: 30.477944939105516
+Zipcode: ORTE9, Score: 30.525705318459384
+Zipcode: EV B8, Score: 30.535939685463788
+Zipcode: 11-90, Score: 30.59052297615392
+Zipcode: EY K8, Score: 30.631460444171527
+Zipcode: MS3, Score: 30.651929178180332
+Zipcode: IS8, Score: 30.686043734861666
+Zipcode: DYS 6, Score: 30.744038481219938
+Zipcode: H WV0, Score: 30.750861392556207
+Zipcode: ST B3, Score: 30.761095759560604
+Zipcode: CT, Score: 30.771330126565005
+Zipcode: SARP8, Score: 30.798621771910074
+Zipcode: FUL3, Score: 30.829324872923277
+Zipcode: STA6, Score: 30.873673796609012
+Zipcode: TX 78, Score: 30.887319619281545
+Zipcode: OVER0, Score: 30.969194555316754
+Zipcode: LE  0, Score: 30.979428922321155
+Zipcode: FEL9, Score: 30.999897656329956
+Zipcode: NEA9, Score: 31.020366390338754
+Zipcode: 1 RE4, Score: 31.068126769692629
+Zipcode: RD J1, Score: 31.112475693378368
+Zipcode: 1   0, Score: 31.170470439736636
+Zipcode: EXAS0, Score: 31.39221505816532
+Zipcode: ERR 7, Score: 31.439975437519191
+Zipcode: 960 0, Score: 31.443386893187323
+Zipcode: IN M1, Score: 31.453621260191721
+Zipcode: E NJ0, Score: 31.460444171527989
+Zipcode: LE M2, Score: 31.508204550881864
+Zipcode: 853 0, Score: 31.716303346638007
+Zipcode: UT8, Score: 31.740183536314948
+Zipcode: O   0, Score: 31.82205847235015
+Zipcode: IBUR7, Score: 31.856173029031488
+Zipcode: DEN 1, Score: 31.873230307372157
+Zipcode: VA 0, Score: 31.876641763040293
+Zipcode: Y CO4, Score: 31.900521952717227
+Zipcode: E 9, Score: 31.94145942073483
+Zipcode: OF 2, Score: 31.944870876402959
+Zipcode: 1 NE6, Score: 31.968751066079896
+Zipcode: AL  0, Score: 31.99263125575683
+Zipcode: VILL5, Score: 32.033568723774437
+Zipcode: 7 CH9, Score: 32.07450619179204
+Zipcode: LAH 3, Score: 32.159792583495381
+Zipcode: A 0, Score: 32.245078975198716
+Zipcode: CH A3, Score: 32.309896632893256
+Zipcode: IO5, Score: 32.320130999897657
+Zipcode: W   0, Score: 32.347422645242723
+Zipcode: R CY0, Score: 32.44976631528673
+Zipcode: ORN 9, Score: 32.494115238972469
+Zipcode: 11 0, Score: 32.50434960597687
+Zipcode: N MS0, Score: 32.521406884317535
+Zipcode: VA  0, Score: 32.524818339985671
+Zipcode: 9 3, Score: 32.630573465697815
+Zipcode: X 783, Score: 32.633984921365951
+Zipcode: H LA0, Score: 32.651042199706616
+Zipcode: RVIL3, Score: 32.685156756387954
+Zipcode: AC/L6, Score: 32.804557704772627
+Zipcode: CHES3, Score: 32.848906628458366
+Zipcode: KITC8, Score: 32.876198273803432
+Zipcode: BK P1, Score: 32.900078463480362
+Zipcode: LOW1, Score: 32.941015931497972
+Zipcode: CT  0, Score: 32.978541943847439
+Zipcode: Y ME0, Score: 32.992187766519976
+Zipcode: TX, Score: 33.087708525227718
+Zipcode: OF 9, Score: 33.111588714904649
+Zipcode: 291 0, Score: 33.217343840616792
+Zipcode: CA, Score: 33.227578207621193
+Zipcode: LO N5, Score: 33.261692764302531
+Zipcode: RIV0, Score: 33.285572953979461
+Zipcode: CAL 7, Score: 33.3196875106608
+Zipcode: US 23, Score: 33.3299218776652
+Zipcode: LTON0, Score: 33.517551939412549
+Zipcode: A CO0, Score: 33.53802067342135
+Zipcode: ER  0, Score: 33.589192508443354
+Zipcode: 81  0, Score: 33.599426875447755
+Zipcode: 0 360, Score: 33.636952887797221
+Zipcode: CA9, Score: 33.643775799133493
+Zipcode: H L-4, Score: 33.688124722819232
+Zipcode: ROE 6, Score: 33.732473646504964
+Zipcode: 655 0, Score: 33.7563538361819
+Zipcode: DORD0, Score: 33.75976529185003
+Zipcode: DALE0, Score: 33.896223518575376
+Zipcode: LEF3, Score: 33.913280796916048
+Zipcode: N IL0, Score: 33.920103708252313
+Zipcode: 7 0, Score: 33.964452631938045
+Zipcode: R 006, Score: 33.995155732951247
+Zipcode: O 630, Score: 34.005390099955655
+Zipcode: 419 0, Score: 34.111145225667791
+Zipcode: NOIS0, Score: 34.199843073039268
+Zipcode: CITY0, Score: 34.2237232627162
+Zipcode: Y 6, Score: 34.261249275065673
+Zipcode: T AI9, Score: 34.268072186401938
+Zipcode: REEK0, Score: 34.29877528741514
+Zipcode: MING0, Score: 34.32265547709207
+Zipcode: YD C6, Score: 34.326066932760206
+Zipcode: YO5, Score: 34.332889844096478
+Zipcode: NH  0, Score: 34.448879336813022
+Zipcode: 2W M1, Score: 34.486405349162489
+Zipcode: LWIR0, Score: 34.633097942892235
+Zipcode: 915 0, Score: 34.643332309896635
+Zipcode: 3E  0, Score: 34.667212499573566
+Zipcode: TX7, Score: 34.694504144918639
+Zipcode: TON 3, Score: 34.752498891276908
+Zipcode: MO 63, Score: 34.759321802613172
+Zipcode: IT3, Score: 34.807082181967047
+Zipcode: IO 43, Score: 34.871899839661587
+Zipcode: APID2, Score: 34.888957118002253
+Zipcode: LE5, Score: 34.906014396342918
+Zipcode: BCH0, Score: 35.001535155050661
+Zipcode: T MS0, Score: 35.039061167400135
+Zipcode: RL R9, Score: 35.114113192099069
+Zipcode: BMT 3, Score: 35.195988128134275
+Zipcode: 2 0, Score: 35.199399583802411
+Zipcode: D 0, Score: 35.257394330160679
+Zipcode: N R40, Score: 35.271040152833216
+Zipcode: MI 5, Score: 35.315389076518947
+Zipcode: ORT 6, Score: 35.322211987855219
+Zipcode: ES  0, Score: 35.369972367209087
+Zipcode: DEER0, Score: 35.414321290894826
+Zipcode: CNTY@, Score: 35.427967113567362
+Zipcode: ARY 7, Score: 35.458670214580565
+Zipcode: E 686, Score: 35.540545150615763
+Zipcode: 970 0, Score: 35.59512844130591
+Zipcode: EN C6, Score: 35.612185719646575
+Zipcode: PH L1, Score: 35.622420086650976
+Zipcode: SL  0, Score: 35.629242997987241
+Zipcode: 79  0, Score: 35.632654453655377
+Zipcode: Y AL0, Score: 35.694060655681781
+Zipcode: ON G9, Score: 35.881690717429123
+Zipcode: RON 7, Score: 35.943096919455527
+Zipcode: KY 4, Score: 35.953331286459935
+Zipcode: ECL 3, Score: 35.9601541977962
+Zipcode: DGE 1, Score: 35.9703885648006
+Zipcode: NE C6, Score: 36.004503121481932
+Zipcode: ORD 3, Score: 36.055674956503942
+Zipcode: LOT 1, Score: 36.120492614198483
+Zipcode: ERIE0, Score: 36.134138436871012
+Zipcode: IL9, Score: 36.144372803875413
+Zipcode: 847 0, Score: 36.304711220277689
+Zipcode: WN C6, Score: 36.362705966635964
+Zipcode: EE R9, Score: 36.389997611981038
+Zipcode: CH P9, Score: 36.410466345989832
+Zipcode: RI R9, Score: 36.519632927370111
+Zipcode: 449 0, Score: 36.563981851055843
+Zipcode: IA C6, Score: 36.570804762392115
+Zipcode: CO K8, Score: 36.710674444785589
+Zipcode: ST1, Score: 36.72090881178999
+Zipcode: 14  0, Score: 36.727731723126254
+Zipcode: RIS 9, Score: 36.806195203493331
+Zipcode: ICO 3, Score: 36.877835772524136
+Zipcode: IBOR5, Score: 36.925596151878004
+Zipcode: C PA9, Score: 36.98359089823628
+Zipcode: 601 0, Score: 36.990413809572544
+Zipcode: MONT0, Score: 37.157575137311092
+Zipcode: LAFI3, Score: 37.167809504315493
+Zipcode: V   0, Score: 37.225804250673761
+Zipcode: 9   0, Score: 37.232627162010026
+Zipcode: KY 41, Score: 37.546481083478319
+Zipcode: CT9, Score: 37.601064374168459
+Zipcode: IP N1, Score: 37.642001842186062
+Zipcode: O 6, Score: 37.655647664858591
+Zipcode: SL A3, Score: 37.798928802920209
+Zipcode: BRIE9, Score: 37.914918295636745
+Zipcode: PS  0, Score: 37.931975573977418
+Zipcode: 107 0, Score: 38.007027598676359
+Zipcode: RM  0, Score: 38.037730699689561
+Zipcode: ISL 0, Score: 38.123017091392896
+Zipcode: &0, Score: 38.181011837751164
+Zipcode: H   0, Score: 38.286766963463307
+Zipcode: X 5 4, Score: 38.344761709821576
+Zipcode: OT 45, Score: 38.395933544843587
+Zipcode: CE  0, Score: 38.399345000511723
+Zipcode: 70  0, Score: 38.460751202538127
+Zipcode: 3MO6, Score: 38.5494490499096
+Zipcode: E 680, Score: 38.617678163272267
+Zipcode: CO A0, Score: 38.880360249718557
+Zipcode: PARI2, Score: 38.904240439395487
+Zipcode: 542 0, Score: 38.907651895063623
+Zipcode: EY 08, Score: 38.979292464094428
+Zipcode: VE9, Score: 39.020229932112031
+Zipcode: LOUI2, Score: 39.07481322280217
+Zipcode: MISS0, Score: 39.149865247501111
+Zipcode: PE P1, Score: 39.187391259850578
+Zipcode: ANT 7, Score: 39.20785999385938
+Zipcode: IL6, Score: 39.262443284549519
+Zipcode: X 760, Score: 39.330672397912188
+Zipcode: S AL0, Score: 39.378432777266056
+Zipcode: L PA0, Score: 39.41595878961553
+Zipcode: ONAD5, Score: 39.4841879029782
+Zipcode: A MS0, Score: 39.542182649336475
+Zipcode: YAL 2, Score: 39.552417016340875
+Zipcode: L RI5, Score: 39.57288575034967
+Zipcode: TY N2, Score: 39.583120117354078
+Zipcode: OL C6, Score: 39.787807457442092
+Zipcode: ERRE2, Score: 39.815099102787158
+Zipcode: RD R4, Score: 39.83556783679596
+Zipcode: OFF0, Score: 39.842390748132232
+Zipcode: VEY 3, Score: 39.852625115136632
+Zipcode: PK H4, Score: 39.97884897485757
+Zipcode: RIER0, Score: 39.989083341861978
+Zipcode: Y NY0, Score: 40.081192644901584
+Zipcode: 69  0, Score: 40.132364479923581
+Zipcode: OYD 3, Score: 40.279057073653327
+Zipcode: E FR6, Score: 40.3063487189984
+Zipcode: EARL0, Score: 40.330228908675331
+Zipcode: OL  0, Score: 40.3370518200116
+Zipcode: TN, Score: 40.354109098352268
+Zipcode: KLIN0, Score: 40.476921502405077
+Zipcode: AL0, Score: 40.86923890424044
+Zipcode: MD2, Score: 40.944290928939381
+Zipcode: NO 2, Score: 40.954525295943775
+Zipcode: ONTY0, Score: 40.971582574284447
+Zipcode: MILI6, Score: 40.978405485620719
+Zipcode: AURY0, Score: 41.050046054651517
+Zipcode: AGE 3, Score: 41.09098352266912
+Zipcode: MS0, Score: 41.094394978337256
+Zipcode: FOR9, Score: 41.148978269027396
+Zipcode: SUB4, Score: 41.435540545150616
+Zipcode: EL F9, Score: 41.442363456486881
+Zipcode: OLRA4, Score: 41.462832190495682
+Zipcode: LA P1, Score: 41.493535291508884
+Zipcode: EZ P9, Score: 41.544707126530888
+Zipcode: OK9, Score: 41.585644594548491
+Zipcode: ON T9, Score: 41.674342441919961
+Zipcode: CO 6, Score: 41.691399720260634
+Zipcode: KY  0, Score: 41.844915225326645
+Zipcode: LE W5, Score: 41.923378705693722
+Zipcode: CTY 4, Score: 41.950670351038788
+Zipcode: Y 416, Score: 41.957493262375053
+Zipcode: OP  0, Score: 41.984784907720126
+Zipcode: W SE3, Score: 42.083717122096
+Zipcode: E ST0, Score: 42.206529526148806
+Zipcode: A 244, Score: 42.213352437485071
+Zipcode: TX3, Score: 42.237232627162008
+Zipcode: A AL0, Score: 42.271347183843346
+Zipcode: SHOR5, Score: 42.428274144577493
+Zipcode: TX 76, Score: 42.5408521816259
+Zipcode: RNA 4, Score: 42.650018763006173
+Zipcode: ER C1, Score: 42.673898952683111
+Zipcode: VING2, Score: 42.827414457749121
+Zipcode: P 97, Score: 42.9570497731382
+Zipcode: ST N4, Score: 42.967284140142596
+Zipcode: R OF0, Score: 43.042336164841537
+Zipcode: ST 3, Score: 43.182205847235018
+Zipcode: DE9, Score: 43.260669327602088
+Zipcode: 61  0, Score: 43.328898440964757
+Zipcode: AR T7, Score: 43.417596288336235
+Zipcode: LIV9, Score: 43.421007744004363
+Zipcode: HEST5, Score: 43.635929451096786
+Zipcode: HEAT0, Score: 43.666632552109988
+Zipcode: / SO4, Score: 43.670044007778117
+Zipcode: N OF0, Score: 43.970252106573874
+Zipcode: ICT 0, Score: 44.417152799099377
+Zipcode: AVE 5, Score: 44.485381912462046
+Zipcode: ASIE5, Score: 44.669600518541266
+Zipcode: COT3, Score: 44.737829631903935
+Zipcode: ODEN0, Score: 44.904990959642475
+Zipcode: N FL6, Score: 45.167673046088765
+Zipcode: N LA0, Score: 45.177907413093166
+Zipcode: AL9, Score: 45.225667792447041
+Zipcode: U PA9, Score: 45.416709309862519
+Zipcode: 501 0, Score: 45.6691570293044
+Zipcode: AL4, Score: 45.740797598335206
+Zipcode: K DI9, Score: 45.829495445706684
+Zipcode: EE P1, Score: 45.925016204414426
+Zipcode: OF 6, Score: 45.931839115750691
+Zipcode: DDIT9, Score: 45.979599495104559
+Zipcode: SD9, Score: 46.071708798144165
+Zipcode: ", Score:  PA0"
+Zipcode: SIDE0, Score: 46.133115000170569
+Zipcode: ST 0, Score: 46.276396138232187
+Zipcode: ON 10, Score: 46.330979428922319
+Zipcode: CT0, Score: 46.337802340258591
+Zipcode: N MI3, Score: 46.508375123665267
+Zipcode: X 0, Score: 46.573192781359808
+Zipcode: E 1, Score: 46.607307338041146
+Zipcode: HWY0, Score: 46.610718793709275
+Zipcode: OF S3, Score: 46.620953160713675
+Zipcode: Y HA6, Score: 46.682359362740087
+Zipcode: ", Score:  MS0"
+Zipcode: 6AL9, Score: 47.037150752225976
+Zipcode: CO  0, Score: 47.078088220243579
+Zipcode: OTTA7, Score: 47.211134991300788
+Zipcode: RD R5, Score: 47.214546446968917
+Zipcode: W OF0, Score: 47.279364104663458
+Zipcode: E CT8, Score: 47.293009927335994
+Zipcode: BEDF6, Score: 47.3748848633712
+Zipcode: S TX0, Score: 47.419233787056939
+Zipcode: M5, Score: 47.593218026131751
+Zipcode: RIV 3, Score: 47.654624228158156
+Zipcode: ON W5, Score: 47.66144713949442
+Zipcode: ES B1, Score: 47.671681506498828
+Zipcode: MA9, Score: 47.705796063180159
+Zipcode: E SI4, Score: 47.753556442534027
+Zipcode: OF 4, Score: 47.869545935250571
+Zipcode: RING0, Score: 47.910483403268174
+Zipcode: ME C3, Score: 47.910483403268174
+Zipcode: BERK5, Score: 47.944597959949512
+Zipcode: LE N5, Score: 48.20045713505953
+Zipcode: NION0, Score: 48.295977893767272
+Zipcode: INGH1, Score: 48.3198580834442
+Zipcode: LA9, Score: 48.52795687920036
+Zipcode: UMA 3, Score: 48.545014157541019
+Zipcode: GTON0, Score: 48.555248524545426
+Zipcode: IN C3, Score: 48.579128714222357
+Zipcode: LK  0, Score: 48.582540169890493
+Zipcode: NY0, Score: 48.6746494729301
+Zipcode: 37 6, Score: 48.698529662607029
+Zipcode: AN C6, Score: 48.701941118275165
+Zipcode: D CO0, Score: 48.7053525739433
+Zipcode: TSVI3, Score: 48.74970149762904
+Zipcode: TN9, Score: 48.756524408965305
+Zipcode: BEAC8, Score: 48.82816497799611
+Zipcode: LD N5, Score: 48.88274826868625
+Zipcode: BAY6, Score: 48.889571180022514
+Zipcode: LELE2, Score: 49.012383584075323
+Zipcode: APPR5, Score: 49.056732507761062
+Zipcode: OI5, Score: 49.080612697438
+Zipcode: OK7, Score: 49.220482379831473
+Zipcode: ENT 3, Score: 49.31259168287108
+Zipcode: O FL0, Score: 49.37740934056562
+Zipcode: KY2, Score: 49.414935352915087
+Zipcode: 3 0, Score: 49.489987377614028
+Zipcode: 58  0, Score: 49.513867567290966
+Zipcode: ORY 3, Score: 49.691263262033907
+Zipcode: 26  0, Score: 49.803841299082322
+Zipcode: SHP 1, Score: 50.134752498891274
+Zipcode: GA9, Score: 50.20298161225395
+Zipcode: SBUR8, Score: 50.206393067922086
+Zipcode: NJ 0, Score: 50.213215979258351
+Zipcode: T DI2, Score: 50.523658445058508
+Zipcode: R   0, Score: 50.540715723399174
+Zipcode: VA 22, Score: 50.595299014089314
+Zipcode: RAN7, Score: 50.868215467540004
+Zipcode: AUVI5, Score: 51.103605908641214
+Zipcode: MP S4, Score: 51.369699450755633
+Zipcode: WY 30, Score: 51.734725207245937
+Zipcode: CTY@, Score: 51.860949066966874
+Zipcode: ETNA0, Score: 51.963292737010882
+Zipcode: 9W 0, Score: 52.004230205028492
+Zipcode: CAR9, Score: 52.130454064749429
+Zipcode: 525 0, Score: 52.318084126496778
+Zipcode: "E, Score:  N3"
+Zipcode: BIVE0, Score: 52.567120390270524
+Zipcode: FL  0, Score: 52.672875515982668
+Zipcode: WV  0, Score: 52.679698427318932
+Zipcode: 27  0, Score: 52.700167161327741
+Zipcode: MAP 0, Score: 52.9901408931191
+Zipcode: 83  0, Score: 53.0413127281411
+Zipcode: UGE 3, Score: 53.048135639477366
+Zipcode: ND  0, Score: 53.198239688875248
+Zipcode: AN K8, Score: 53.208474055879641
+Zipcode: ING 3, Score: 53.3858697506226
+Zipcode: D SI4, Score: 53.638317470064479
+Zipcode: T 0, Score: 53.638317470064479
+Zipcode: OU E0, Score: 53.761129874117287
+Zipcode: ORIA0, Score: 53.764541329785423
+Zipcode: F HW8, Score: 53.866884999829423
+Zipcode: KY 40, Score: 53.883942278170096
+Zipcode: 5CA9, Score: 53.890765189506361
+Zipcode: HARL5, Score: 53.972640125541574
+Zipcode: ANVI3, Score: 54.006754682222905
+Zipcode: HEDG5, Score: 54.167093098625188
+Zipcode: O AL0, Score: 54.190973288302111
+Zipcode: D SU2, Score: 54.28649404700986
+Zipcode: NE M2, Score: 54.593525057141875
+Zipcode: O W 1, Score: 54.805035308566161
+Zipcode: FL 3, Score: 55.023368471326719
+Zipcode: CO V1, Score: 55.047248661003643
+Zipcode: 922 0, Score: 55.095009040357525
+Zipcode: AL B3, Score: 55.19052979906526
+Zipcode: 3 7, Score: 55.289462013441138
+Zipcode: ROA4, Score: 55.306519291781811
+Zipcode: S N 6, Score: 55.37474840514448
+Zipcode: DGE 0, Score: 55.391805683485138
+Zipcode: RD 4, Score: 55.436154607170884
+Zipcode: LAR 4, Score: 55.579435745232487
+Zipcode: ONE 7, Score: 55.654487769931428
+Zipcode: TOWN0, Score: 55.767065806979844
+Zipcode: UNTY0, Score: 55.954695868727185
+Zipcode: IANA0, Score: 56.299252891208681
+Zipcode: KS6, Score: 56.531231876641762
+Zipcode: 48MI0, Score: 56.845085798110048
+Zipcode: 35  0, Score: 56.886023266127658
+Zipcode: LLE 0, Score: 57.353392692661963
+Zipcode: HP  0, Score: 57.414798894688367
+Zipcode: PERE9, Score: 57.479616552382907
+Zipcode: O 280, Score: 57.554668577081834
+Zipcode: OMIC1, Score: 57.697949715143451
+Zipcode: ER C6, Score: 57.786647562514929
+Zipcode: IN A3, Score: 57.807116296523731
+Zipcode: ER P1, Score: 57.929928700576539
+Zipcode: A CT8, Score: 58.349537747756962
+Zipcode: ANY 7, Score: 58.445058506464711
+Zipcode: 1 0, Score: 58.479173063146042
+Zipcode: 92  0, Score: 58.816907174291266
+Zipcode: YBRO6, Score: 58.85443318664074
+Zipcode: KE C6, Score: 58.94654248968034
+Zipcode: 816 0, Score: 59.20922457612663
+Zipcode: TY M2, Score: 59.311568246170644
+Zipcode: R TU5, Score: 60.072322860164427
+Zipcode: R CO0, Score: 60.184900897212842
+Zipcode: E PA9, Score: 60.321359123938187
+Zipcode: ES W0, Score: 60.369119503292055
+Zipcode: Z   0, Score: 60.792140006140613
+Zipcode: OFF 9, Score: 61.030941902909973
+Zipcode: LINT6, Score: 61.187868863644113
+Zipcode: 763 0, Score: 61.235629242997987
+Zipcode: HARO3, Score: 61.662061201514682
+Zipcode: 336 0, Score: 61.689352846859755
+Zipcode: S RD0, Score: 61.696175758196027
+Zipcode: VA 2, Score: 61.757581960222431
+Zipcode: ITTO0, Score: 61.795107972571891
+Zipcode: ORE 6, Score: 61.921331832292836
+Zipcode: LLIA4, Score: 61.938389110633508
+Zipcode: IVER0, Score: 62.330706512468872
+Zipcode: N TX0, Score: 62.398935625831541
+Zipcode: XA2, Score: 62.934534165728515
+Zipcode: AL 36, Score: 63.07099239245386
+Zipcode: HERM1, Score: 63.497424350970554
+Zipcode: N 3, Score: 63.944325043496065
+Zipcode: "Y, Score: W 5"
+Zipcode: 444 0, Score: 64.271824787636888
+Zipcode: A9, Score: 64.401460103025968
+Zipcode: 086 0, Score: 64.438986115375428
+Zipcode: TO R9, Score: 64.449220482379829
+Zipcode: 75  0, Score: 64.896121174905332
+Zipcode: FF G9, Score: 65.049636679971343
+Zipcode: S B9, Score: 65.936615153686077
+Zipcode: 084 0, Score: 65.95367243202675
+Zipcode: MS, Score: 65.97755262170368
+Zipcode: VE  0, Score: 66.52679698427319
+Zipcode: HOUS5, Score: 66.687135400675473
+Zipcode: EY M6, Score: 67.069218435506428
+Zipcode: 32-33, Score: 67.447890014669255
+Zipcode: RY  0, Score: 67.853853239177155
+Zipcode: E RD0, Score: 67.891379251526629
+Zipcode: ATUC2, Score: 68.826118104595238
+Zipcode: UMBE9, Score: 69.153617848736062
+Zipcode: 768 0, Score: 69.583461262920892
+Zipcode: WV, Score: 70.139528536826674
+Zipcode: WV9, Score: 70.818408214785251
+Zipcode: BDVN0, Score: 71.118616313581
+Zipcode: UTH)0, Score: 71.169788148603
+Zipcode: V 264, Score: 71.773615801862661
+Zipcode: C   0, Score: 71.8998396615836
+Zipcode: KES 3, Score: 71.906662572919871
+Zipcode: 8 0, Score: 71.9203083955924
+Zipcode: AL, Score: 71.954422952273731
+Zipcode: T 3 0, Score: 72.213693583051892
+Zipcode: RGO 0, Score: 72.701531743595
+Zipcode: 37  0, Score: 72.994916931054476
+Zipcode: LF O6, Score: 73.956947429468158
+Zipcode: OMIC0, Score: 74.0627025551803
+Zipcode: ECON4, Score: 74.594889639409132
+Zipcode: HRS 0, Score: 74.867806092859823
+Zipcode: HWY 5, Score: 74.980384129908231
+Zipcode: EF3, Score: 75.21918602667759
+Zipcode: BRA5, Score: 76.0242895643571
+Zipcode: 97  0, Score: 76.392726776515545
+Zipcode: COWP1, Score: 76.651997407293692
+Zipcode: ING 7, Score: 76.679289052638765
+Zipcode: "NTY, Score: 4"
+Zipcode: 649 0, Score: 78.347490874356083
+Zipcode: TY K8, Score: 79.521031624194038
+Zipcode: HORE2, Score: 79.531265991198438
+Zipcode: EAN 9, Score: 79.797359533312857
+Zipcode: A 703, Score: 80.353426807218639
+Zipcode: HE P9, Score: 80.76962439873094
+Zipcode: LE K8, Score: 80.871968068774947
+Zipcode: BLDG0, Score: 80.895848258451892
+Zipcode: MPSH9, Score: 81.949988059905166
+Zipcode: ND F3, Score: 82.243373247364644
+Zipcode: BRAU6, Score: 82.98365912734964
+Zipcode: 923 0, Score: 83.536314945587293
+Zipcode: OREF9, Score: 84.181080066864538
+Zipcode: F. P1, Score: 85.0919387302562
+Zipcode: A 945, Score: 86.517927199536032
+Zipcode: AZ, Score: 86.517927199536032
+Zipcode: NGS 1, Score: 86.517927199536032
+Zipcode: DEPT0, Score: 86.633916692252583
+Zipcode: Y 409, Score: 86.766963463309793
+Zipcode: MO9, Score: 88.496571487053515
+Zipcode: WV 26, Score: 88.704670282809673
+Zipcode: D 256, Score: 90.3319346365094
+Zipcode: LAN4, Score: 91.075631972162512
+Zipcode: OH9, Score: 91.12680380718453
+Zipcode: L AV5, Score: 92.40609968273462
+Zipcode: IN7, Score: 92.818885818578792
+Zipcode: RS A3, Score: 92.921229488622785
+Zipcode: E KY0, Score: 93.487531129532968
+Zipcode: NK  0, Score: 93.709275747961655
+Zipcode: OINT@, Score: 94.05724422611128
+Zipcode: HI0, Score: 96.312216422747582
+Zipcode: 652 0, Score: 98.751407225463112
