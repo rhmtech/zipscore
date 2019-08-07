@@ -82,32 +82,32 @@ func main() {
 		}
 	}
 
-	// Pull score per zipcode zipcode
+	// Pull score per zipcode
 	if len(zipcode) > 0 {
 		err := db.View(func(txn *badger.Txn) error {
 			item, err := txn.Get([]byte(zipcode))
 			if err != nil {
 				log.Printf("Error get record: %v", err)
+			} else {
+				var valCopy []byte
+				err = item.Value(func(val []byte) error {
+
+					// Accessing val here is valid.
+					// fmt.Printf("The answer is: %s\n", val)
+
+					// Copying or parsing val is valid.
+					valCopy = append([]byte{}, val...)
+
+					return nil
+				})
+				if err != nil {
+					log.Printf("Error to get value: %v", err)
+				}
+
+				// You must copy it to use it outside item.Value(...).
+				// valCopy, _ = item.ValueCopy(nil)
+				fmt.Printf("The answer is: %s\n", valCopy)
 			}
-
-			var valCopy []byte
-			err = item.Value(func(val []byte) error {
-
-				// Accessing val here is valid.
-				fmt.Printf("The answer is: %s\n", val)
-
-				// Copying or parsing val is valid.
-				valCopy = append([]byte{}, val...)
-
-				return nil
-			})
-			if err != nil {
-				log.Printf("Error to get value: %v", err)
-			}
-
-			// You must copy it to use it outside item.Value(...).
-			fmt.Printf("The answer is: %s\n", valCopy)
-
 			return nil
 		})
 		if err != nil {
